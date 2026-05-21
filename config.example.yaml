@@ -1,0 +1,22 @@
+# Optional non-secret config. Copy to config.yaml to customize.
+# Secrets (tokens, username) belong in environment variables / GitHub Secrets,
+# NOT in this file.
+
+# Season to query on Sleeper (defaults to the current year).
+# season: "2026"
+
+# Extra players to track for news even though they're not on your roster.
+# Use full names exactly as they appear on Sleeper.
+watchlist:
+  # - "Caleb Williams"
+  # - "Marvin Harrison"
+
+# Toggle which kinds of alerts you want pushed to Telegram.
+alerts:
+  news: true
+  injuries: true
+  depth_chart: true
+  team_changes: true
+
+# How many days of news history to keep in the database.
+news_retention_days: 60
