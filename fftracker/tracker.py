@@ -174,20 +174,25 @@ class Tracker:
 
     # -- news ------------------------------------------------------------
     def gather_news(self) -> list[Alert]:
-        """Fetch ESPN news for tracked players and store new items as alerts."""
+        """Fetch the NFL news feed once and attribute stories to tracked players."""
         if not self.cfg.alert_news:
             return []
+        # Map ESPN athlete id -> player row (only players we actually track).
+        by_espn = {p["espn_id"]: p for p in self.db.tracked_players() if p.get("espn_id")}
+        if not by_espn:
+            return []
+        try:
+            articles = espn.get_recent_news(session=self.session)
+        except Exception as exc:  # ESPN has no SLA; never let it abort the run
+            print(f"[news] feed unavailable: {exc}")
+            return []
+
         alerts: list[Alert] = []
-        for player in self.db.tracked_players():
-            espn_id = player.get("espn_id")
-            if not espn_id:
-                continue
-            try:
-                articles = espn.get_player_news(espn_id, session=self.session)
-            except Exception as exc:  # ESPN has no SLA; never let it abort the run
-                print(f"[news] {player['full_name']}: {exc}")
-                continue
-            for art in articles:
+        for art in articles:
+            for aid in art.athlete_ids:
+                player = by_espn.get(aid)
+                if not player:
+                    continue
                 key = f"{player['player_id']}|{art.dedupe_key()}"
                 inserted = self.db.add_news(
                     player_id=player["player_id"],

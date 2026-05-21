@@ -12,6 +12,11 @@ ESPN_PAYLOAD = {
             "published": "2026-01-02T12:00:00Z",
             "type": "Story",
             "links": {"web": {"href": "https://espn.com/story/1"}},
+            "categories": [
+                {"type": "team", "teamId": 1},
+                {"type": "athlete", "athleteId": 4430807},
+                {"type": "athlete", "athlete": {"id": 99}},
+            ],
         },
         {  # media items are skipped
             "headline": "Highlights",
@@ -22,11 +27,13 @@ ESPN_PAYLOAD = {
 }
 
 
-def test_parse_articles_skips_media():
+def test_parse_articles_skips_media_and_extracts_athletes():
     arts = _parse_articles(ESPN_PAYLOAD)
     assert len(arts) == 1
     assert arts[0].url == "https://espn.com/story/1"
     assert arts[0].dedupe_key() == "https://espn.com/story/1"
+    # Pulls athlete ids from both athleteId and nested athlete.id, as strings.
+    assert arts[0].athlete_ids == ["4430807", "99"]
 
 
 def test_parse_articles_empty():

@@ -22,11 +22,16 @@ def _stub_network(monkeypatch):
     monkeypatch.setattr(sleeper, "get_all_players", lambda: ALL_PLAYERS)
     monkeypatch.setattr(sleeper, "get_league_rosters",
                         lambda lid: [{"owner_id": "user1", "players": ["100", "200"]}])
+    # One feed call; each article tags the athlete(s) it references.
     monkeypatch.setattr(
-        espn, "get_player_news",
-        lambda espn_id, session=None: [
-            Article("Big news", "something happened", f"https://e/{espn_id}",
-                    "2026-01-01T00:00:00Z")
+        espn, "get_recent_news",
+        lambda session=None: [
+            Article("Bijan news", "rb news", "https://e/100",
+                    "2026-01-01T00:00:00Z", athlete_ids=["4430807"]),
+            Article("London news", "wr news", "https://e/200",
+                    "2026-01-01T00:00:00Z", athlete_ids=["4426502"]),
+            Article("Unrelated story", "not ours", "https://e/999",
+                    "2026-01-01T00:00:00Z", athlete_ids=["55555"]),
         ],
     )
 

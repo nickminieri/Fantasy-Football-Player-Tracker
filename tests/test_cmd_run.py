@@ -25,10 +25,10 @@ def _stub(monkeypatch):
     monkeypatch.setattr(sleeper, "get_all_players", lambda: PLAYERS)
     monkeypatch.setattr(sleeper, "get_league_rosters",
                         lambda lid: [{"owner_id": "user1", "players": ["100"]}])
-    monkeypatch.setattr(espn, "get_player_news",
-                        lambda espn_id, session=None: [
+    monkeypatch.setattr(espn, "get_recent_news",
+                        lambda session=None: [
                             Article("Old article", "preseason", "https://e/old",
-                                    "2026-01-01T00:00:00Z")])
+                                    "2026-01-01T00:00:00Z", athlete_ids=["4430807"])])
     monkeypatch.setattr(run, "Telegram", FakeTelegram)
 
 

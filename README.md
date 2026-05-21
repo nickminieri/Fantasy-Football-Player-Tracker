@@ -96,6 +96,11 @@ defaults (all alerts on) apply unless you commit a `config.yaml`.
 
 - **ESPN news** comes from an undocumented endpoint — it's free but has no SLA
   and can change. News failures are non-fatal; the rest of the run still works.
+  Stories are matched to your players by the athletes ESPN tags in each article,
+  so you get news that genuinely mentions your guys (not generic headlines).
+  Coverage is the league-wide feed, so deep-cut beat notes may not appear —
+  but **injury-status changes are caught independently via Sleeper**, which is
+  the most fantasy-critical signal.
 - **First run is quiet by design:** it snapshots your roster without firing
   alerts for pre-existing state, then only alerts on *changes* afterward.
 - **Schedule latency:** GitHub may delay cron runs during peak load, so "every

@@ -28,6 +28,13 @@ def cmd_run(cfg) -> int:
     try:
         tracker = Tracker(cfg, db)
         first_run = db.get_meta("bootstrapped") != "1"
+        # One-time: older builds mis-attributed league-wide news to every
+        # player. Clear that data once and re-snapshot quietly under the new logic.
+        migrated = db.get_meta("news_attrib_v") != "2"
+        if migrated:
+            db.conn.execute("DELETE FROM news_items")
+            db.set_meta("news_attrib_v", "2")
+            db.commit()
 
         print(f"Syncing roster for '{cfg.sleeper_username}' (season {cfg.season})...")
         change_alerts = tracker.sync()
@@ -37,21 +44,21 @@ def cmd_run(cfg) -> int:
         new_count = len(tracker.gather_news())
         print(f"  {new_count} new article(s).")
 
-        if first_run:
+        if first_run or migrated:
             # Snapshot existing state/news silently so the user isn't flooded
             # with pre-existing articles. Alert only on changes from here on.
             db.conn.execute("UPDATE news_items SET notified=1")
-            db.set_meta("bootstrapped", "1")
             db.commit()
-            tg_first = Telegram(cfg.telegram_bot_token, cfg.telegram_chat_id) \
-                if cfg.telegram_enabled else None
             count = len(db.tracked_players())
-            print(f"First run: snapshotted {count} players (no alerts sent).")
-            if tg_first:
-                tg_first.send(
-                    f"✅ <b>Fantasy tracker is live</b>\nWatching {count} players. "
-                    "You'll get news, injury, depth-chart and trade alerts here."
-                )
+            print(f"Quiet run: snapshotted {count} players (no alerts sent).")
+            if first_run:
+                db.set_meta("bootstrapped", "1")
+                db.commit()
+                if cfg.telegram_enabled:
+                    Telegram(cfg.telegram_bot_token, cfg.telegram_chat_id).send(
+                        f"✅ <b>Fantasy tracker is live</b>\nWatching {count} players. "
+                        "You'll get news, injury, depth-chart and trade alerts here."
+                    )
             _write_report(cfg, db)
             db.prune_news(cfg.news_retention_days)
             return 0
