@@ -4,13 +4,16 @@ Commands:
   run             Sync roster, detect changes, fetch news, send Telegram alerts.
   discover        List your Sleeper leagues + IDs (to set SLEEPER_LEAGUE_ID).
   report          Regenerate ROSTER.md from the current DB (no network).
+  projections     Rank every projected player by total season projected points.
   test-telegram   Send a test message to verify your bot credentials.
 """
 from __future__ import annotations
 
 import argparse
 import sys
+from pathlib import Path
 
+from . import projections as proj
 from . import sleeper
 from .config import load_config
 from .db import Database
@@ -131,6 +134,44 @@ def cmd_report(cfg) -> int:
     return 0
 
 
+def cmd_projections(cfg, args) -> int:
+    season = args.season or cfg.season
+    weeks = proj.parse_weeks(args.weeks)
+    if not weeks:
+        print(f"ERROR: no valid weeks parsed from '{args.weeks}'.", file=sys.stderr)
+        return 2
+    positions = [p.strip().upper() for p in args.positions.split(",") if p.strip()]
+    label = proj.SCORING_LABEL.get(args.scoring, args.scoring.upper())
+
+    print(f"Fetching {season} {label} projections for weeks "
+          f"{weeks[0]}–{weeks[-1]} ({len(weeks)} weeks)...")
+    players, weeks_with_data = proj.aggregate(
+        season, weeks, scoring=args.scoring, positions=positions)
+    ranked = proj.rank(players)
+
+    if not ranked:
+        print(
+            "No projection data returned. Sleeper often doesn't publish weekly "
+            "projections for an upcoming season until closer to kickoff — try a "
+            "completed season, e.g. `--season 2025`.",
+            file=sys.stderr,
+        )
+        return 1
+
+    print(f"  {weeks_with_data}/{len(weeks)} weeks had data · {len(ranked)} players.\n")
+    print(proj.format_console(ranked, top=args.top))
+
+    out = Path(args.out) if args.out else (cfg.report_path.parent / "PROJECTIONS.md")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(
+        proj.build_report(ranked, season=season, scoring=args.scoring,
+                          weeks_with_data=weeks_with_data, weeks_requested=len(weeks)),
+        encoding="utf-8",
+    )
+    print(f"\nWrote full ranking ({len(ranked)} players) to {out}")
+    return 0
+
+
 def cmd_test_telegram(cfg) -> int:
     if not cfg.telegram_enabled:
         print("ERROR: TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID must both be set.",
@@ -147,9 +188,29 @@ def main(argv: list[str] | None = None) -> int:
     sub = parser.add_subparsers(dest="command", required=True)
     for name in ("run", "discover", "report", "test-telegram"):
         sub.add_parser(name)
+
+    p_proj = sub.add_parser(
+        "projections",
+        help="Rank players by total projected points across the season.",
+    )
+    p_proj.add_argument("--season", default=None,
+                        help="Season to project (defaults to SEASON / current year).")
+    p_proj.add_argument("--weeks", default="1-18",
+                        help="Weeks to total, e.g. '1-18' or '1,2,5-8' (default 1-18).")
+    p_proj.add_argument("--scoring", choices=["ppr", "half_ppr", "std"], default="ppr",
+                        help="Scoring basis for projected points (default ppr).")
+    p_proj.add_argument("--positions", default=",".join(proj.DEFAULT_POSITIONS),
+                        help="Comma-separated positions to include (default QB,RB,WR,TE,K,DEF).")
+    p_proj.add_argument("--top", type=int, default=50,
+                        help="How many to print to the console; 0 prints all (default 50).")
+    p_proj.add_argument("--out", default=None,
+                        help="Markdown output path (default data/PROJECTIONS.md).")
+
     args = parser.parse_args(argv)
 
     cfg = load_config()
+    if args.command == "projections":
+        return cmd_projections(cfg, args)
     dispatch = {
         "run": cmd_run,
         "discover": cmd_discover,

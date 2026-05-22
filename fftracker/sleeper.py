@@ -10,6 +10,8 @@ from dataclasses import dataclass
 from .http import get_json
 
 BASE = "https://api.sleeper.app/v1"
+# Stats/projections live at the API root, not under /v1.
+PROJECTIONS_BASE = "https://api.sleeper.app/projections/nfl"
 
 
 @dataclass
@@ -66,6 +68,22 @@ def get_all_players() -> dict[str, dict]:
     depth_chart_position/order, age, years_exp, espn_id, news_updated, etc.
     """
     return get_json(f"{BASE}/players/nfl") or {}
+
+
+def get_projections(season, week, *, season_type: str = "regular",
+                    positions: list[str] | None = None, order_by: str = "ppr"):
+    """Fetch per-player projections for one NFL week.
+
+    Returns Sleeper's raw payload (a list of projection rows). Each row carries a
+    ``player_id`` and a ``stats`` dict with precomputed fantasy points
+    (``pts_ppr``, ``pts_half_ppr``, ``pts_std``) alongside the projected stat line.
+    Returns None for a week Sleeper has no data for (e.g. an unplayed future week).
+    """
+    params: dict = {"season_type": season_type, "order_by": order_by}
+    if positions:
+        # requests serializes a list value as repeated keys: position[]=QB&position[]=RB
+        params["position[]"] = list(positions)
+    return get_json(f"{PROJECTIONS_BASE}/{season}/{week}", params=params)
 
 
 def get_trending(kind: str = "add", lookback_hours: int = 24, limit: int = 25) -> list[dict]:

@@ -80,7 +80,27 @@ python -m fftracker discover        # list your leagues + IDs
 python -m fftracker test-telegram   # verify Telegram works
 python -m fftracker run             # full sync + news + alerts
 python -m fftracker report          # regenerate ROSTER.md from the DB (no network)
+python -m fftracker projections     # rank players by total season projected points
 ```
+
+### Season projection rankings
+
+`projections` walks every week of the season, reads each player's projected
+fantasy points for that game from Sleeper, totals them per player, and writes a
+ranked list (highest → lowest) to [`data/PROJECTIONS.md`](data/PROJECTIONS.md)
+while printing the top of the list to your terminal.
+
+```bash
+python -m fftracker projections                       # PPR, weeks 1–18, current season
+python -m fftracker projections --season 2025         # a completed season
+python -m fftracker projections --scoring half_ppr    # ppr | half_ppr | std
+python -m fftracker projections --weeks 1-9 --top 100 # first half, print 100 rows
+python -m fftracker projections --positions QB,RB,WR,TE  # narrow the position set
+```
+
+It needs no roster — it ranks every player Sleeper publishes projections for. For
+an **upcoming** season Sleeper usually doesn't post weekly projections until close
+to kickoff, so out of season you'll often need a completed year (`--season 2025`).
 
 ## Customizing
 
