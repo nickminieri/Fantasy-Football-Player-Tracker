@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-05-27 06:19 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-05-27 10:37 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,5 +34,6 @@ _Auto-generated 2026-05-27 06:19 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Argentine police arrest suspects in U.S. athlete burglaries](https://www.espn.com/nfl/story/_/id/48888296/argentine-police-arrest-suspects-us-athlete-burglaries)
 - **Patrick Mahomes** — [Patrick Mahomes back on field for Chiefs' first OTA practice](https://www.espn.com/nfl/story/_/id/48884510/sources-mahomes-back-field-chiefs-first-ota-practice)
 - **Chris Boswell** — [Aaron Rodgers quickly gets back to work with Steelers at OTAs](https://www.espn.com/nfl/story/_/id/48808409/aaron-rodgers-quickly-gets-back-work-steelers-otas)
