@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-05-28 14:48 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-05-28 18:11 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -19,7 +19,7 @@ _Auto-generated 2026-05-28 14:48 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | — | Active | 24 | 0 |
 | WR | Calvin Ridley | TEN | #1 | Questionable | 31 | 8 |
 | WR | Chris Olave | NO | #1 | Active | 25 | 4 |
-| WR | Garrett Wilson | NYJ | #1 | Questionable | 25 | 4 |
+| WR | Garrett Wilson | NYJ | #1 | Active | 25 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 32 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 25 | 3 |
 | WR | Jaylin Noel | HOU | #3 | Active | 23 | 1 |
