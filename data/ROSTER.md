@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-03 18:07 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-03 21:35 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -14,7 +14,7 @@ _Auto-generated 2026-06-03 18:07 UTC · Sleeper league `1353605511664115712` · 
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Jaylen Warren | PIT | #2 | Active | 27 | 4 |
 | RB | Ray Davis | BUF | #2 | Active | 26 | 2 |
-| RB | Devin Neal | NO | #4 | Questionable | 22 | 1 |
+| RB | Devin Neal | NO | #4 | Active | 22 | 1 |
 | RB | Najee Harris | FA | — | Questionable | 27 | 5 |
 | RB | Seth McGowan | IND | — | Active | 24 | 0 |
 | WR | Calvin Ridley | TEN | #1 | Questionable | 31 | 8 |
