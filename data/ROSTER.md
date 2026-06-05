@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-05 06:21 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-05 10:30 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-06-05 06:21 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [What Buffalo's fresh-faced team showed at OTAs](https://www.espn.com/nfl/story/_/id/48958672/buffalo-bills-oc-carmichael-offense-observations-ota)
 - **Josh Allen** — [Who has been on the Madden NFL cover? Players since 2000](https://www.espn.com/gaming/story/_/id/44106719/who-the-madden-nfl-cover)
 - **Patrick Mahomes** — [Who has been on the Madden NFL cover? Players since 2000](https://www.espn.com/gaming/story/_/id/44106719/who-the-madden-nfl-cover)
 - **Mike Evans** — [Buccaneers' Godwin 'didn't believe' news of Evans' exit at first](https://www.espn.com/nfl/story/_/id/48950798/buccaneers-godwin-believe-news-evans-exit-first)
