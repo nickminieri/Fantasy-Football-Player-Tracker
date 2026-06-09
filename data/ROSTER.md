@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-09 19:12 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-09 21:17 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-06-09 19:12 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
 - **Patrick Mahomes** — [Why Chiefs believe Kenneth Walker can transform their offense](https://www.espn.com/nfl/story/_/id/48995215/why-chiefs-believe-kenneth-walker-transform-offense-free-agency-otas-offseason-super-bowl)
 - **Mike Evans** — [Don't be surprised if ... Shough is a QB1 option, Achane tops fantasy scorers, Nacua flirts with 2,000 yards](https://www.espn.com/fantasy/football/story/_/id/48943272/2026-fantasy-football-breakouts-sleepers-busts-nfl-bold-predictions-surprises)
 - **Patrick Mahomes** — [Don't be surprised if ... Shough is a QB1 option, Achane tops fantasy scorers, Nacua flirts with 2,000 yards](https://www.espn.com/fantasy/football/story/_/id/48943272/2026-fantasy-football-breakouts-sleepers-busts-nfl-bold-predictions-surprises)
