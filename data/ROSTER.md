@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-10 21:34 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-10 23:24 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -13,27 +13,28 @@ _Auto-generated 2026-06-10 21:34 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Jaylen Warren | PIT | #2 | Active | 27 | 4 |
-| RB | Ray Davis | BUF | #2 | Active | 26 | 2 |
+| RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
+| RB | Seth McGowan | IND | #3 | Active | 24 | 0 |
 | RB | Devin Neal | NO | #4 | Active | 22 | 1 |
 | RB | Najee Harris | FA | — | Questionable | 27 | 5 |
-| RB | Seth McGowan | IND | — | Active | 24 | 0 |
-| WR | Calvin Ridley | TEN | #1 | Active | 31 | 8 |
 | WR | Chris Olave | NO | #1 | Active | 25 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 25 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 32 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 25 | 3 |
-| WR | Jaylin Noel | HOU | #3 | Active | 23 | 1 |
-| WR | Denzel Boston | CLE | — | Active | 22 | 0 |
+| WR | Denzel Boston | CLE | #2 | Active | 22 | 0 |
+| WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
+| WR | Jaylin Noel | HOU | #4 | Active | 23 | 1 |
 | WR | Stefon Diggs | FA | — | Active | 32 | 11 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 30 | 8 |
-| TE | Eli Stowers | PHI | — | Active | 23 | 0 |
-| TE | Oscar Delp | NO | — | Active | 22 | 0 |
+| TE | Eli Stowers | PHI | #2 | Questionable | 23 | 0 |
+| TE | Oscar Delp | NO | #3 | Active | 22 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
+- **Patrick Mahomes** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
 - **Patrick Mahomes** — [Sources: Chiefs' Patrick Mahomes to make over $500M in reworked deal](https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal)
 - **Josh Allen** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
 - **Patrick Mahomes** — [Why Chiefs believe Kenneth Walker can transform their offense](https://www.espn.com/nfl/story/_/id/48995215/why-chiefs-believe-kenneth-walker-transform-offense-free-agency-otas-offseason-super-bowl)
