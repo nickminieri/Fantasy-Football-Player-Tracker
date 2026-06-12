@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-12 17:21 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-12 19:29 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-06-12 17:21 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [NFL closes personal conduct review into WR Stefon Diggs](https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs)
 - **Patrick Mahomes** — [2026 NFL contracts: Next to get a big deal at every position](https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell)
 - **Patrick Mahomes** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
 - **Patrick Mahomes** — [Sources: Chiefs' Patrick Mahomes to make over $500M in reworked deal](https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal)
