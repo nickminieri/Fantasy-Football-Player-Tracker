@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-26 10:49 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-26 13:10 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-06-26 10:49 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Fantasy football: Twelve players who will score fewer TDs in 2026](https://www.espn.com/fantasy/football/story/_/id/49179383/2026-fantasy-football-rankings-projections-less-touchdowns-td)
 - **Patrick Mahomes** — [AFC West offseason storylines: QB buzz, underrated moves, rookies](https://www.espn.com/nfl/story/_/id/49111990/nfl-afc-west-broncos-chargers-chiefs-raiders-questions-coaches-offseason)
 - **Stefon Diggs** — [NFL closes personal conduct review into WR Stefon Diggs](https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs)
 - **Patrick Mahomes** — [2026 NFL contracts: Next to get a big deal at every position](https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell)
