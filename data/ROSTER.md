@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-26 15:38 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-26 17:45 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-06-26 15:38 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Aaron Jones** — [Fantasy football buzz: Egbuka among six players on the move in Bowen's preseason rankings](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [Fantasy football: Twelve players who will score fewer TDs in 2026](https://www.espn.com/fantasy/football/story/_/id/49179383/2026-fantasy-football-rankings-projections-less-touchdowns-td)
 - **Patrick Mahomes** — [AFC West offseason storylines: QB buzz, underrated moves, rookies](https://www.espn.com/nfl/story/_/id/49111990/nfl-afc-west-broncos-chargers-chiefs-raiders-questions-coaches-offseason)
 - **Stefon Diggs** — [NFL closes personal conduct review into WR Stefon Diggs](https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs)
