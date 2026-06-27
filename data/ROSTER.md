@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-06-27 00:05 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-06-27 04:33 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,7 +17,7 @@ _Auto-generated 2026-06-27 00:05 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #3 | Active | 24 | 0 |
 | RB | Devin Neal | NO | #4 | Questionable | 22 | 1 |
 | RB | Najee Harris | FA | — | Questionable | 27 | 5 |
-| WR | Chris Olave | NO | #1 | Active | 25 | 4 |
+| WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 25 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 32 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 25 | 3 |
