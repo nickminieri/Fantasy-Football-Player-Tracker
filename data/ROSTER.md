@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-04 14:08 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-04 15:41 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,9 @@ _Auto-generated 2026-07-04 14:08 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
+- **Patrick Mahomes** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
+- **Josh Allen** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
 - **Mike Evans** — [Mike Evans is fitting right in with the 49ers](https://www.espn.com/nfl/story/_/id/49190986/mike-evans-fitting-right-san-francisco-49ers)
 - **Aaron Jones** — [Fantasy football buzz: Egbuka among six players on the move in Bowen's preseason rankings](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [Fantasy football: Twelve players who will score fewer TDs in 2026](https://www.espn.com/fantasy/football/story/_/id/49179383/2026-fantasy-football-rankings-projections-less-touchdowns-td)
