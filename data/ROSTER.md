@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-10 08:20 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-10 11:24 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,9 @@ _Auto-generated 2026-07-10 08:20 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [AFC East: Can Bills, Jets or Dolphins unseat the Patriots?](https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis)
+- **Mark Andrews** — [Execs, coaches, scouts rank top NFL tight ends for 2026](https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts)
+- **Tony Pollard** — [Fantasy football: Dobbins, Montgomery among players to upgrade, downgrade due to O-line](https://www.espn.com/fantasy/football/story/_/id/49316529/fantasy-football-players-upgrade-downgrade-due-offensive-line-play)
 - **Mike Evans** — [Fantasy football: 12 players who will bounce back this season](https://www.espn.com/fantasy/football/story/_/id/49290760/fantasy-football-players-bounce-back-season)
 - **Mike Evans** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
 - **Patrick Mahomes** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
@@ -56,6 +59,3 @@ _Auto-generated 2026-07-10 08:20 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [Buccaneers' Godwin 'didn't believe' news of Evans' exit at first](https://www.espn.com/nfl/story/_/id/48950798/buccaneers-godwin-believe-news-evans-exit-first)
 - **Patrick Mahomes** — [Chiefs' Mahomes pleased to get OTA reps amid knee injury recovery](https://www.espn.com/nfl/story/_/id/48903412/chiefs-mahomes-pleased-get-ota-reps-amid-knee-injury-recovery)
 - **Patrick Mahomes** — [Mahomes brutally trolls Kelce over Guardians ownership](https://www.espn.com/nfl/story/_/id/48890942/travis-kelce-cleveland-guardians-patrick-mahomes-troll-first-pitch-kansas-city-chiefs)
-- **Patrick Mahomes** — [Argentine police arrest suspects in U.S. athlete burglaries](https://www.espn.com/nfl/story/_/id/48888296/argentine-police-arrest-suspects-us-athlete-burglaries)
-- **Patrick Mahomes** — [Patrick Mahomes back on field for Chiefs' first OTA practice](https://www.espn.com/nfl/story/_/id/48884510/sources-mahomes-back-field-chiefs-first-ota-practice)
-- **Chris Boswell** — [Aaron Rodgers quickly gets back to work with Steelers at OTAs](https://www.espn.com/nfl/story/_/id/48808409/aaron-rodgers-quickly-gets-back-work-steelers-otas)
