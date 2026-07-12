@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-12 15:57 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-12 17:04 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-07-12 15:57 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Stefon Diggs says there is no WR2 in NFL 'better than me'](https://www.espn.com/nfl/story/_/id/49343916/stefon-diggs-says-there-no-wr2-nfl-better-me)
 - **Josh Allen** — [AFC East: Can Bills, Jets or Dolphins unseat the Patriots?](https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis)
 - **Mark Andrews** — [Execs, coaches, scouts rank top NFL tight ends for 2026](https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts)
 - **Tony Pollard** — [Fantasy football: Dobbins, Montgomery among players to upgrade, downgrade due to O-line](https://www.espn.com/fantasy/football/story/_/id/49316529/fantasy-football-players-upgrade-downgrade-due-offensive-line-play)
@@ -58,4 +59,3 @@ _Auto-generated 2026-07-12 15:57 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Who has been on the Madden NFL cover? Players since 2000](https://www.espn.com/gaming/story/_/id/44106719/who-the-madden-nfl-cover)
 - **Mike Evans** — [Buccaneers' Godwin 'didn't believe' news of Evans' exit at first](https://www.espn.com/nfl/story/_/id/48950798/buccaneers-godwin-believe-news-evans-exit-first)
 - **Patrick Mahomes** — [Chiefs' Mahomes pleased to get OTA reps amid knee injury recovery](https://www.espn.com/nfl/story/_/id/48903412/chiefs-mahomes-pleased-get-ota-reps-amid-knee-injury-recovery)
-- **Patrick Mahomes** — [Mahomes brutally trolls Kelce over Guardians ownership](https://www.espn.com/nfl/story/_/id/48890942/travis-kelce-cleveland-guardians-patrick-mahomes-troll-first-pitch-kansas-city-chiefs)
