@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-15 14:48 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-15 16:19 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-07-15 14:48 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Fantasy football buzz: Why Stefon Diggs is a value right now](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Patrick Mahomes** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
 - **Josh Allen** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
 - **Stefon Diggs** — [Stefon Diggs says there is no WR2 in NFL 'better than me'](https://www.espn.com/nfl/story/_/id/49343916/stefon-diggs-says-there-no-wr2-nfl-better-me)
@@ -58,4 +59,3 @@ _Auto-generated 2026-07-15 14:48 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Don't be surprised if ... Shough is a QB1 option, Achane tops fantasy scorers, Nacua flirts with 2,000 yards](https://www.espn.com/fantasy/football/story/_/id/48943272/2026-fantasy-football-breakouts-sleepers-busts-nfl-bold-predictions-surprises)
 - **Josh Allen** — [What Buffalo's fresh-faced team showed at OTAs](https://www.espn.com/nfl/story/_/id/48958672/buffalo-bills-oc-carmichael-offense-observations-ota)
 - **Josh Allen** — [Who has been on the Madden NFL cover? Players since 2000](https://www.espn.com/gaming/story/_/id/44106719/who-the-madden-nfl-cover)
-- **Patrick Mahomes** — [Who has been on the Madden NFL cover? Players since 2000](https://www.espn.com/gaming/story/_/id/44106719/who-the-madden-nfl-cover)
