@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-24 21:00 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-24 22:33 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-07-24 21:00 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Chiefs' Patrick Mahomes fully cleared for camp, feeling 'amazing'](https://www.espn.com/nfl/story/_/id/49442364/chiefs-patrick-mahomes-fully-cleared-training-camp-feeling-amazing)
 - **Patrick Mahomes** — [As training camp opens, Chiefs point to brighter future in 2026](https://www.espn.com/nfl/story/_/id/49433361/nfl-training-camp-2026-kansas-city-chiefs-patrick-mahomes-chris-jones-2026-season)
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp preview](https://www.espn.com/nfl/story/_/id/49098765/2026-kansas-city-chiefs-training-camp-preview)
 - **Josh Allen** — [2026 Buffalo Bills training camp preview](https://www.espn.com/nfl/story/_/id/49096995/2026-buffalo-bills-training-camp-preview)
@@ -58,4 +59,3 @@ _Auto-generated 2026-07-24 21:00 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Sources: Chiefs' Patrick Mahomes to make over $500M in reworked deal](https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal)
 - **Josh Allen** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
 - **Patrick Mahomes** — [Why Chiefs believe Kenneth Walker can transform their offense](https://www.espn.com/nfl/story/_/id/48995215/why-chiefs-believe-kenneth-walker-transform-offense-free-agency-otas-offseason-super-bowl)
-- **Mike Evans** — [Don't be surprised if ... Shough is a QB1 option, Achane tops fantasy scorers, Nacua flirts with 2,000 yards](https://www.espn.com/fantasy/football/story/_/id/48943272/2026-fantasy-football-breakouts-sleepers-busts-nfl-bold-predictions-surprises)
