@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-25 17:29 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-25 18:31 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-07-25 17:29 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [2026 Kansas City Chiefs training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates)
 - **Mike Evans** — [Are the 49ers back in win-now mode for 2026?](https://www.espn.com/nfl/story/_/id/49435780/are-san-francisco-49ers-back-win-now-mode-2026)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes fully cleared for camp, feeling 'amazing'](https://www.espn.com/nfl/story/_/id/49442364/chiefs-patrick-mahomes-fully-cleared-training-camp-feeling-amazing)
 - **Patrick Mahomes** — [As training camp opens, Chiefs point to brighter future in 2026](https://www.espn.com/nfl/story/_/id/49433361/nfl-training-camp-2026-kansas-city-chiefs-patrick-mahomes-chris-jones-2026-season)
@@ -58,4 +59,3 @@ _Auto-generated 2026-07-25 17:29 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [2026 NFL contracts: Next to get a big deal at every position](https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell)
 - **Patrick Mahomes** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
 - **Patrick Mahomes** — [Sources: Chiefs' Patrick Mahomes to make over $500M in reworked deal](https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal)
-- **Josh Allen** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
