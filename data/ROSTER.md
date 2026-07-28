@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-28 14:01 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-28 16:17 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-07-28 14:01 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Myles Garrett, Josh Allen and more earn spots in 'Madden 27' 99 Club](https://www.espn.com/nfl/story/_/id/49470315/madden-27-99-club-myles-garrett-josh-allen-jamarr-chase)
 - **Mike Evans** — [2026 San Francisco 49ers training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates)
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates)
 - **Mike Evans** — [Are the 49ers back in win-now mode for 2026?](https://www.espn.com/nfl/story/_/id/49435780/are-san-francisco-49ers-back-win-now-mode-2026)
@@ -58,4 +59,3 @@ _Auto-generated 2026-07-28 14:01 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [AFC West offseason storylines: QB buzz, underrated moves, rookies](https://www.espn.com/nfl/story/_/id/49111990/nfl-afc-west-broncos-chargers-chiefs-raiders-questions-coaches-offseason)
 - **Stefon Diggs** — [NFL closes personal conduct review into WR Stefon Diggs](https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs)
 - **Patrick Mahomes** — [2026 NFL contracts: Next to get a big deal at every position](https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell)
-- **Patrick Mahomes** — [Highest-paid NFL players: Most guaranteed money at every position](https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position)
