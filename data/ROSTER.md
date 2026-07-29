@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-29 10:36 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-29 12:58 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,8 @@ _Auto-generated 2026-07-29 10:36 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
+- **Patrick Mahomes** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
 - **Josh Allen** — [Myles Garrett, Josh Allen and more earn spots in 'Madden 27' 99 Club](https://www.espn.com/nfl/story/_/id/49470315/madden-27-99-club-myles-garrett-josh-allen-jamarr-chase)
 - **Mike Evans** — [2026 San Francisco 49ers training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates)
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates)
@@ -57,5 +59,3 @@ _Auto-generated 2026-07-29 10:36 UTC · Sleeper league `1353605511664115712` · 
 - **Aaron Jones** — [Fantasy football buzz: Egbuka among six players on the move in Bowen's preseason rankings](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [Fantasy football: Twelve players who will score fewer TDs in 2026](https://www.espn.com/fantasy/football/story/_/id/49179383/2026-fantasy-football-rankings-projections-less-touchdowns-td)
 - **Patrick Mahomes** — [AFC West offseason storylines: QB buzz, underrated moves, rookies](https://www.espn.com/nfl/story/_/id/49111990/nfl-afc-west-broncos-chargers-chiefs-raiders-questions-coaches-offseason)
-- **Stefon Diggs** — [NFL closes personal conduct review into WR Stefon Diggs](https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs)
-- **Patrick Mahomes** — [2026 NFL contracts: Next to get a big deal at every position](https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell)
