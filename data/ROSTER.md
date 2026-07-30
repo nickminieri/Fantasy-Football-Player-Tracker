@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-07-30 17:05 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-07-30 18:54 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -27,7 +27,7 @@ _Auto-generated 2026-07-30 17:05 UTC · Sleeper league `1353605511664115712` · 
 | WR | Stefon Diggs | FA | — | Active | 32 | 11 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 30 | 8 |
-| TE | Eli Stowers | PHI | #2 | Questionable | 23 | 0 |
+| TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #4 | Active | 22 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
