@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-01 09:04 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-08-01 10:56 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,7 @@ _Auto-generated 2026-08-01 09:04 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Rookie wideout Cyrus Allen an early star of Chiefs training camp](https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes)
 - **Josh Allen** — [2026 Buffalo Bills training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates)
 - **Josh Allen** — [Josh Allen on Bills' alternate uniforms: 'Stop hating on the jerseys'](https://www.espn.com/nfl/story/_/id/49481725/josh-allen-bills-alternate-uniforms-stop-hating-jerseys)
 - **Josh Allen** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
@@ -58,4 +59,3 @@ _Auto-generated 2026-08-01 09:04 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
 - **Josh Allen** — [Fantasy football sleepers, busts and breakouts for 2026](https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts)
 - **Mike Evans** — [Mike Evans is fitting right in with the 49ers](https://www.espn.com/nfl/story/_/id/49190986/mike-evans-fitting-right-san-francisco-49ers)
-- **Aaron Jones** — [Fantasy football buzz: Egbuka among six players on the move in Bowen's preseason rankings](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
