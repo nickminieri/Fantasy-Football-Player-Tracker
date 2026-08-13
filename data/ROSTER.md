@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-13 13:55 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-08-13 14:56 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -8,10 +8,10 @@ _Auto-generated 2026-08-13 13:55 UTC · Sleeper league `1353605511664115712` · 
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Patrick Mahomes | KC | #1 | Questionable | 30 | 9 |
 | QB | Michael Penix | ATL | #2 | Questionable | 26 | 2 |
-| RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Aaron Jones | MIN | #2 | Active | 31 | 9 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Devin Neal | NO | #3 | Questionable | 23 | 1 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
