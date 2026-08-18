@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-18 16:38 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-08-18 17:23 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,7 +17,7 @@ _Auto-generated 2026-08-18 16:38 UTC · Sleeper league `1353605511664115712` · 
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Seth McGowan | IND | #3 | Active | 24 | 0 |
 | RB | George Holani | SEA | #4 | Active | 26 | 2 |
-| RB | Najee Harris | FA | — | Questionable | 27 | 5 |
+| RB | Najee Harris | NYG | — | Questionable | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 32 | 12 |
