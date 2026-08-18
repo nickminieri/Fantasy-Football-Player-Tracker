@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-18 12:40 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-08-18 13:39 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -19,7 +19,7 @@ _Auto-generated 2026-08-18 12:40 UTC · Sleeper league `1353605511664115712` · 
 | RB | George Holani | SEA | #4 | Active | 26 | 2 |
 | RB | Najee Harris | FA | — | Questionable | 27 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
-| WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
+| WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 32 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 25 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
