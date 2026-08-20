@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-20 13:43 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-08-20 14:33 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -8,10 +8,10 @@ _Auto-generated 2026-08-20 13:43 UTC · Sleeper league `1353605511664115712` · 
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Patrick Mahomes | KC | #1 | Questionable | 30 | 9 |
 | QB | Michael Penix | ATL | #2 | Questionable | 26 | 2 |
-| RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Aaron Jones | MIN | #2 | Active | 31 | 9 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Devin Neal | NO | #3 | Active | 23 | 1 |
 | RB | Najee Harris | NYG | #3 | Questionable | 28 | 5 |
@@ -24,11 +24,11 @@ _Auto-generated 2026-08-20 13:43 UTC · Sleeper league `1353605511664115712` · 
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
-| WR | Jaylin Noel | HOU | #4 | Questionable | 23 | 1 |
+| WR | Jaylin Noel | HOU | #3 | Questionable | 23 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 30 | 8 |
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
-| TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
+| TE | Oscar Delp | NO | #4 | Active | 23 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
