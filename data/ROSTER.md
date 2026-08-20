@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-20 14:33 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-08-20 15:30 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -14,7 +14,7 @@ _Auto-generated 2026-08-20 14:33 UTC · Sleeper league `1353605511664115712` · 
 | RB | Aaron Jones | MIN | #2 | Active | 31 | 9 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Devin Neal | NO | #3 | Active | 23 | 1 |
-| RB | Najee Harris | NYG | #3 | Questionable | 28 | 5 |
+| RB | Najee Harris | NYG | #3 | Active | 28 | 5 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Seth McGowan | IND | #3 | Active | 24 | 0 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
