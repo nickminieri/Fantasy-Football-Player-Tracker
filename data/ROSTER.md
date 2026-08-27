@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-08-27 10:08 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-08-27 20:40 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -24,7 +24,7 @@ _Auto-generated 2026-08-27 10:08 UTC · Sleeper league `1353605511664115712` · 
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
-| WR | Jaylin Noel | HOU | #5 | Questionable | 23 | 1 |
+| WR | Jaylin Noel | HOU | #3 | Questionable | 23 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 30 | 8 |
 | TE | Eli Stowers | PHI | #2 | Questionable | 23 | 0 |
