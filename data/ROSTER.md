@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-05 00:17 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-05 04:48 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -8,11 +8,11 @@ _Auto-generated 2026-09-05 00:17 UTC · Sleeper league `1353605511664115712` · 
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Patrick Mahomes | KC | #1 | Questionable | 30 | 9 |
 | QB | Michael Penix | ATL | #2 | Questionable | 26 | 2 |
+| RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
-| RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
-| RB | Aaron Jones | MIN | #2 | Active | 31 | 9 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
+| RB | Jaylen Warren | PIT | #2 | Active | 27 | 4 |
 | RB | Justice Hill | BAL | #2 | Active | 28 | 7 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Najee Harris | NYG | #3 | Active | 28 | 5 |
@@ -21,9 +21,9 @@ _Auto-generated 2026-09-05 00:17 UTC · Sleeper league `1353605511664115712` · 
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Questionable | 25 | 3 |
-| WR | Denzel Boston | CLE | #2 | Active | 22 | 0 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
+| WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
 | WR | Jaylin Noel | HOU | #3 | Questionable | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 30 | 8 |
