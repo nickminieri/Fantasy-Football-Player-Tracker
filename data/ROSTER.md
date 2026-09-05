@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-05 12:22 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-05 15:25 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -55,4 +55,3 @@ _Auto-generated 2026-09-05 12:22 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [AFC East: Can Bills, Jets or Dolphins unseat the Patriots?](https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis)
 - **Mark Andrews** — [Execs, coaches, scouts rank top NFL tight ends for 2026](https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts)
 - **Tony Pollard** — [Fantasy football: Dobbins, Montgomery among players to upgrade, downgrade due to O-line](https://www.espn.com/fantasy/football/story/_/id/49316529/fantasy-football-players-upgrade-downgrade-due-offensive-line-play)
-- **Mike Evans** — [Fantasy football: 12 players who will bounce back this season](https://www.espn.com/fantasy/football/story/_/id/49290760/fantasy-football-players-bounce-back-season)
