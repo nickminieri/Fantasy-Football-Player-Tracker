@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-05 23:11 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-06 01:12 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -26,7 +26,7 @@ _Auto-generated 2026-09-05 23:11 UTC · Sleeper league `1353605511664115712` · 
 | WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
 | WR | Jaylin Noel | HOU | #3 | Questionable | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
-| TE | Mark Andrews | BAL | #1 | Active | 30 | 8 |
+| TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Eli Stowers | PHI | #2 | Questionable | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Questionable | 23 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
