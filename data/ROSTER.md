@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-08 13:27 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-08 17:21 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -14,8 +14,8 @@ _Auto-generated 2026-09-08 13:27 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Justice Hill | BAL | #2 | Active | 28 | 7 |
-| RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
+| RB | Najee Harris | NYG | #3 | Active | 28 | 5 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
@@ -52,6 +52,3 @@ _Auto-generated 2026-09-08 13:27 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
 - **Josh Allen** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
 - **Stefon Diggs** — [Stefon Diggs says there is no WR2 in NFL 'better than me'](https://www.espn.com/nfl/story/_/id/49343916/stefon-diggs-says-there-no-wr2-nfl-better-me)
-- **Josh Allen** — [AFC East: Can Bills, Jets or Dolphins unseat the Patriots?](https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis)
-- **Mark Andrews** — [Execs, coaches, scouts rank top NFL tight ends for 2026](https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts)
-- **Tony Pollard** — [Fantasy football: Dobbins, Montgomery among players to upgrade, downgrade due to O-line](https://www.espn.com/fantasy/football/story/_/id/49316529/fantasy-football-players-upgrade-downgrade-due-offensive-line-play)
