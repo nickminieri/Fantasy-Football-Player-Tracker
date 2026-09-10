@@ -1,12 +1,12 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-10 19:55 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-10 22:17 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
-| QB | Patrick Mahomes | KC | #1 | Questionable | 30 | 9 |
+| QB | Patrick Mahomes | KC | #1 | Active | 30 | 9 |
 | QB | Michael Penix | ATL | #3 | Out | 26 | 2 |
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
@@ -20,7 +20,7 @@ _Auto-generated 2026-09-10 19:55 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Questionable | 25 | 3 |
+| WR | Zay Flowers | BAL | #1 | Active | 25 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
@@ -51,4 +51,3 @@ _Auto-generated 2026-09-10 19:55 UTC · Sleeper league `1353605511664115712` · 
 - **Stefon Diggs** — [Fantasy football buzz: Why Stefon Diggs is a value right now](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Patrick Mahomes** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
 - **Josh Allen** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
-- **Stefon Diggs** — [Stefon Diggs says there is no WR2 in NFL 'better than me'](https://www.espn.com/nfl/story/_/id/49343916/stefon-diggs-says-there-no-wr2-nfl-better-me)
