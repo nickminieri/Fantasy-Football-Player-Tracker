@@ -1,13 +1,13 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-11 17:30 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-11 20:27 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Patrick Mahomes | KC | #1 | Active | 30 | 9 |
-| QB | Michael Penix | ATL | #3 | Out | 26 | 2 |
+| QB | Michael Penix | ATL | #2 | Out | 26 | 2 |
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
@@ -28,7 +28,7 @@ _Auto-generated 2026-09-11 17:30 UTC · Sleeper league `1353605511664115712` · 
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Eli Stowers | PHI | #2 | Questionable | 23 | 0 |
-| TE | Oscar Delp | NO | #3 | Questionable | 23 | 0 |
+| TE | Oscar Delp | NO | #3 | Out | 23 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
