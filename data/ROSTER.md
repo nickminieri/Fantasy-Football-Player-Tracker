@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-11 13:45 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-11 17:30 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -49,5 +49,3 @@ _Auto-generated 2026-09-11 13:45 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp preview](https://www.espn.com/nfl/story/_/id/49098765/2026-kansas-city-chiefs-training-camp-preview)
 - **Josh Allen** — [2026 Buffalo Bills training camp preview](https://www.espn.com/nfl/story/_/id/49096995/2026-buffalo-bills-training-camp-preview)
 - **Stefon Diggs** — [Fantasy football buzz: Why Stefon Diggs is a value right now](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Patrick Mahomes** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
-- **Josh Allen** — [Execs, coaches, scouts rank top NFL quarterbacks for 2026](https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts)
