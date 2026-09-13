@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-13 16:49 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-13 19:11 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -20,7 +20,7 @@ _Auto-generated 2026-09-13 16:49 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
+| WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
@@ -48,4 +48,3 @@ _Auto-generated 2026-09-13 16:49 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [As training camp opens, Chiefs point to brighter future in 2026](https://www.espn.com/nfl/story/_/id/49433361/nfl-training-camp-2026-kansas-city-chiefs-patrick-mahomes-chris-jones-2026-season)
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp preview](https://www.espn.com/nfl/story/_/id/49098765/2026-kansas-city-chiefs-training-camp-preview)
 - **Josh Allen** — [2026 Buffalo Bills training camp preview](https://www.espn.com/nfl/story/_/id/49096995/2026-buffalo-bills-training-camp-preview)
-- **Stefon Diggs** — [Fantasy football buzz: Why Stefon Diggs is a value right now](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
