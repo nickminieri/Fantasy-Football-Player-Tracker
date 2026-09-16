@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-16 20:21 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-16 23:08 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -29,7 +29,7 @@ _Auto-generated 2026-09-16 20:21 UTC · Sleeper league `1353605511664115712` · 
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Questionable | 23 | 0 |
 | TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
-| K | Eddy Pineiro | SF | #1 | Active | 31 | 8 |
+| K | Eddy Pineiro | SF | #1 | Questionable | 31 | 8 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
