@@ -1,13 +1,13 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-16 01:31 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-16 07:13 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Patrick Mahomes | KC | #1 | Active | 30 | 9 |
-| QB | Michael Penix | ATL | #2 | Out | 26 | 2 |
+| QB | Michael Penix | ATL | #2 | Questionable | 26 | 2 |
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
@@ -15,19 +15,19 @@ _Auto-generated 2026-09-16 01:31 UTC · Sleeper league `1353605511664115712` · 
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Justice Hill | BAL | #2 | Active | 28 | 7 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
-| RB | Najee Harris | NYG | #3 | Out | 28 | 5 |
+| RB | Najee Harris | NYG | #3 | Active | 28 | 5 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Out | 26 | 3 |
+| WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
-| TE | Oscar Delp | NO | #3 | Out | 23 | 0 |
+| TE | Oscar Delp | NO | #3 | Questionable | 23 | 0 |
 | TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
