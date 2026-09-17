@@ -1,12 +1,12 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-16 23:08 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-17 01:35 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
-| QB | Patrick Mahomes | KC | #1 | Active | 30 | 9 |
+| QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
 | QB | Michael Penix | ATL | #2 | Questionable | 26 | 2 |
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
@@ -21,9 +21,9 @@ _Auto-generated 2026-09-16 23:08 UTC · Sleeper league `1353605511664115712` · 
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
+| WR | Denzel Boston | CLE | #2 | Active | 22 | 0 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
-| WR | Denzel Boston | CLE | #3 | Active | 22 | 0 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
