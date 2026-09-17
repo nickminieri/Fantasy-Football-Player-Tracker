@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-17 20:29 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-17 23:01 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -15,9 +15,9 @@ _Auto-generated 2026-09-17 20:29 UTC · Sleeper league `1353605511664115712` · 
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tyrone Tracy | NYG | #3 | Questionable | 26 | 2 |
+| RB | Tyrone Tracy | NYG | #3 | Active | 26 | 2 |
 | RB | Najee Harris | NYG | #4 | Active | 28 | 5 |
-| WR | Chris Olave | NO | #1 | Active | 26 | 4 |
+| WR | Chris Olave | NO | #1 | Questionable | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
