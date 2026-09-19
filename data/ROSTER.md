@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-19 14:38 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-19 17:45 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -20,9 +20,9 @@ _Auto-generated 2026-09-19 14:38 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Questionable | 26 | 4 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Doubtful | 26 | 3 |
 | WR | Denzel Boston | CLE | #2 | Active | 22 | 0 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
+| WR | Zay Flowers | BAL | #2 | Doubtful | 26 | 3 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Jaylin Noel | HOU | #3 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
