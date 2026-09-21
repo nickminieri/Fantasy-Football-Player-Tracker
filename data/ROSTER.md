@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-21 18:15 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-21 22:06 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -45,4 +45,3 @@ _Auto-generated 2026-09-21 18:15 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates)
 - **Mike Evans** — [Are the 49ers back in win-now mode for 2026?](https://www.espn.com/nfl/story/_/id/49435780/are-san-francisco-49ers-back-win-now-mode-2026)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes fully cleared for camp, feeling 'amazing'](https://www.espn.com/nfl/story/_/id/49442364/chiefs-patrick-mahomes-fully-cleared-training-camp-feeling-amazing)
-- **Patrick Mahomes** — [As training camp opens, Chiefs point to brighter future in 2026](https://www.espn.com/nfl/story/_/id/49433361/nfl-training-camp-2026-kansas-city-chiefs-patrick-mahomes-chris-jones-2026-season)
