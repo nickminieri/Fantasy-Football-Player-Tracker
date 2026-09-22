@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-22 16:22 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-22 19:48 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -28,7 +28,7 @@ _Auto-generated 2026-09-22 16:22 UTC · Sleeper league `1353605511664115712` · 
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
 | K | Eddy Pineiro | SF | #1 | Active | 31 | 8 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
