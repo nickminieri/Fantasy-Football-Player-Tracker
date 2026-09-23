@@ -1,14 +1,14 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-23 06:19 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-23 11:56 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
-| QB | Michael Penix | ATL | #1 | Out | 26 | 2 |
+| QB | Michael Penix | ATL | #1 | Active | 26 | 2 |
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
-| RB | Aaron Jones | MIN | #1 | Questionable | 31 | 9 |
+| RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 26 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
@@ -21,7 +21,7 @@ _Auto-generated 2026-09-23 06:19 UTC · Sleeper league `1353605511664115712` · 
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Out | 26 | 3 |
+| WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
