@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-23 11:56 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-23 16:14 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -43,4 +43,3 @@ _Auto-generated 2026-09-23 11:56 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Myles Garrett, Josh Allen and more earn spots in 'Madden 27' 99 Club](https://www.espn.com/nfl/story/_/id/49470315/madden-27-99-club-myles-garrett-josh-allen-jamarr-chase)
 - **Mike Evans** — [2026 San Francisco 49ers training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates)
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates)
-- **Mike Evans** — [Are the 49ers back in win-now mode for 2026?](https://www.espn.com/nfl/story/_/id/49435780/are-san-francisco-49ers-back-win-now-mode-2026)
