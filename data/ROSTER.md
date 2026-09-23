@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-22 22:43 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-23 01:14 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -28,7 +28,7 @@ _Auto-generated 2026-09-22 22:43 UTC · Sleeper league `1353605511664115712` · 
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
 | K | Eddy Pineiro | SF | #1 | Active | 31 | 8 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
@@ -44,4 +44,3 @@ _Auto-generated 2026-09-22 22:43 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [2026 San Francisco 49ers training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates)
 - **Patrick Mahomes** — [2026 Kansas City Chiefs training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates)
 - **Mike Evans** — [Are the 49ers back in win-now mode for 2026?](https://www.espn.com/nfl/story/_/id/49435780/are-san-francisco-49ers-back-win-now-mode-2026)
-- **Patrick Mahomes** — [Chiefs' Patrick Mahomes fully cleared for camp, feeling 'amazing'](https://www.espn.com/nfl/story/_/id/49442364/chiefs-patrick-mahomes-fully-cleared-training-camp-feeling-amazing)
