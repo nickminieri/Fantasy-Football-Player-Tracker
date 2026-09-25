@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-24 23:45 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-25 03:28 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -9,7 +9,7 @@ _Auto-generated 2026-09-24 23:45 UTC · Sleeper league `1353605511664115712` · 
 | QB | Michael Penix | ATL | #1 | Active | 26 | 2 |
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
 | RB | Aaron Jones | MIN | #1 | Questionable | 31 | 9 |
-| RB | James Cook | BUF | #1 | Active | 26 | 4 |
+| RB | James Cook | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Questionable | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Questionable | 29 | 7 |
 | RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
@@ -24,11 +24,11 @@ _Auto-generated 2026-09-24 23:45 UTC · Sleeper league `1353605511664115712` · 
 | WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
-| WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
+| WR | Jaylin Noel | HOU | #3 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
 | K | Eddy Pineiro | SF | #1 | Active | 31 | 8 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
@@ -41,4 +41,3 @@ _Auto-generated 2026-09-24 23:45 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
 - **Patrick Mahomes** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
 - **Josh Allen** — [Myles Garrett, Josh Allen and more earn spots in 'Madden 27' 99 Club](https://www.espn.com/nfl/story/_/id/49470315/madden-27-99-club-myles-garrett-josh-allen-jamarr-chase)
-- **Mike Evans** — [2026 San Francisco 49ers training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates)
