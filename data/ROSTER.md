@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-26 19:00 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-26 21:55 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -40,4 +40,3 @@ _Auto-generated 2026-09-26 19:00 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Josh Allen on Bills' alternate uniforms: 'Stop hating on the jerseys'](https://www.espn.com/nfl/story/_/id/49481725/josh-allen-bills-alternate-uniforms-stop-hating-jerseys)
 - **Josh Allen** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
 - **Patrick Mahomes** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
-- **Josh Allen** — [Myles Garrett, Josh Allen and more earn spots in 'Madden 27' 99 Club](https://www.espn.com/nfl/story/_/id/49470315/madden-27-99-club-myles-garrett-josh-allen-jamarr-chase)
