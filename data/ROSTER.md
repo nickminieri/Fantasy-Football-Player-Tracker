@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-27 00:17 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-27 05:33 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -12,8 +12,8 @@ _Auto-generated 2026-09-27 00:17 UTC · Sleeper league `1353605511664115712` · 
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Questionable | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
-| RB | Blake Corum | LAR | #2 | Active | 25 | 2 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
+| RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
 | RB | Najee Harris | NYG | #3 | Active | 28 | 5 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
