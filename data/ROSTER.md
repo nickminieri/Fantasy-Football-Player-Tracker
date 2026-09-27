@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-27 15:45 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-27 19:31 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -10,7 +10,7 @@ _Auto-generated 2026-09-27 15:45 UTC · Sleeper league `1353605511664115712` · 
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
-| RB | Jaylen Warren | PIT | #1 | Questionable | 27 | 4 |
+| RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
@@ -20,17 +20,17 @@ _Auto-generated 2026-09-27 15:45 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
-| WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
+| WR | Mike Evans | SF | #1 | Active | 33 | 12 |
+| WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
-| WR | Calvin Ridley | TEN | #3 | Active | 31 | 8 |
+| WR | Jauan Jennings | MIN | #3 | Active | 29 | 6 |
 | WR | Jaylin Noel | HOU | #3 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
 | K | Eddy Pineiro | SF | #1 | Active | 31 | 8 |
-| DEF | Denver Broncos | DEN | — | Active | — | — |
+| DEF | Carolina Panthers | CAR | — | Active | — | — |
 
 ## Recent News
 
@@ -38,5 +38,3 @@ _Auto-generated 2026-09-27 15:45 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Rookie wideout Cyrus Allen an early star of Chiefs training camp](https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes)
 - **Josh Allen** — [2026 Buffalo Bills training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates)
 - **Josh Allen** — [Josh Allen on Bills' alternate uniforms: 'Stop hating on the jerseys'](https://www.espn.com/nfl/story/_/id/49481725/josh-allen-bills-alternate-uniforms-stop-hating-jerseys)
-- **Josh Allen** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
-- **Patrick Mahomes** — [Fantasy football superlatives: The best in the fantasy game in 30 categories](https://www.espn.com/fantasy/football/story/_/id/49471387/fantasy-football-sleepers-bust-breakouts-rookies-best-worst)
