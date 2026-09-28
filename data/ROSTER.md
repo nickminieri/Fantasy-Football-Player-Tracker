@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-27 22:48 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-28 01:24 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -12,11 +12,11 @@ _Auto-generated 2026-09-27 22:48 UTC · Sleeper league `1353605511664115712` · 
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
-| RB | Najee Harris | NYG | #3 | Active | 28 | 5 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
+| RB | Tyrone Tracy | NYG | #3 | Active | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
@@ -37,4 +37,3 @@ _Auto-generated 2026-09-27 22:48 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [What's next for 49ers receivers Aiyuk, Deebo and Pearsall?](https://www.espn.com/nfl/story/_/id/49516913/san-francisco-49ers-brandon-aiyuk-commanders-deebo-samuel-ricky-pearsall-fantasy)
 - **Patrick Mahomes** — [Rookie wideout Cyrus Allen an early star of Chiefs training camp](https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes)
 - **Josh Allen** — [2026 Buffalo Bills training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates)
-- **Josh Allen** — [Josh Allen on Bills' alternate uniforms: 'Stop hating on the jerseys'](https://www.espn.com/nfl/story/_/id/49481725/josh-allen-bills-alternate-uniforms-stop-hating-jerseys)
