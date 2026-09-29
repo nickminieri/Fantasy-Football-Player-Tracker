@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-28 21:35 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-29 01:28 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -36,4 +36,3 @@ _Auto-generated 2026-09-28 21:35 UTC · Sleeper league `1353605511664115712` · 
 
 - **Mike Evans** — [What's next for 49ers receivers Aiyuk, Deebo and Pearsall?](https://www.espn.com/nfl/story/_/id/49516913/san-francisco-49ers-brandon-aiyuk-commanders-deebo-samuel-ricky-pearsall-fantasy)
 - **Patrick Mahomes** — [Rookie wideout Cyrus Allen an early star of Chiefs training camp](https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes)
-- **Josh Allen** — [2026 Buffalo Bills training camp: Latest intel, updates](https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates)
