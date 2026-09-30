@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-09-30 15:37 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-09-30 20:32 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -11,13 +11,13 @@ _Auto-generated 2026-09-30 15:37 UTC · Sleeper league `1353605511664115712` · 
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
-| RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Tony Pollard | TEN | #1 | Questionable | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Questionable | 23 | 2 |
 | RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
+| RB | Tyrone Tracy | NYG | #4 | Questionable | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
@@ -35,4 +35,3 @@ _Auto-generated 2026-09-30 15:37 UTC · Sleeper league `1353605511664115712` · 
 ## Recent News
 
 - **Mike Evans** — [What's next for 49ers receivers Aiyuk, Deebo and Pearsall?](https://www.espn.com/nfl/story/_/id/49516913/san-francisco-49ers-brandon-aiyuk-commanders-deebo-samuel-ricky-pearsall-fantasy)
-- **Patrick Mahomes** — [Rookie wideout Cyrus Allen an early star of Chiefs training camp](https://www.espn.com/nfl/story/_/id/49500558/2026-kansas-city-chiefs-training-camp-cyrus-allen-patrick-mahomes)
