@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-01 13:43 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-01 19:16 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,4 +34,7 @@ _Auto-generated 2026-10-01 13:43 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
+- **Josh Allen** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
+- **Patrick Mahomes** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
 - **Mike Evans** — [What's next for 49ers receivers Aiyuk, Deebo and Pearsall?](https://www.espn.com/nfl/story/_/id/49516913/san-francisco-49ers-brandon-aiyuk-commanders-deebo-samuel-ricky-pearsall-fantasy)
