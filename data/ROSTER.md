@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-02 20:04 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-02 23:56 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,12 +17,12 @@ _Auto-generated 2026-10-02 20:04 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
 | RB | Ray Davis | BUF | #3 | Questionable | 26 | 2 |
-| RB | Tyrone Tracy | NYG | #4 | Questionable | 26 | 2 |
+| RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
-| WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
+| WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 25 | 5 |
@@ -34,6 +34,8 @@ _Auto-generated 2026-10-02 20:04 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [49ers WR Mike Evans a game-time decision with rib injury](https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury)
+- **Mike Evans** — [Fantasy football Week 4 inactives: Daniels, DeVonta to sit, McConkey questionable](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active)
 - **Josh Allen** — [Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces](https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace)
 - **Patrick Mahomes** — [Patrick Mahomes, Chiefs have rediscovered the deep pass](https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy)
 - **Patrick Mahomes** — [What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week](https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know)
