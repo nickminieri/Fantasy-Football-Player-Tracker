@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-02 08:50 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-02 15:23 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,9 @@ _Auto-generated 2026-10-02 08:50 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces](https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace)
+- **Patrick Mahomes** — [Patrick Mahomes, Chiefs have rediscovered the deep pass](https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy)
+- **Patrick Mahomes** — [What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week](https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know)
 - **Stefon Diggs** — [Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
 - **Patrick Mahomes** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
