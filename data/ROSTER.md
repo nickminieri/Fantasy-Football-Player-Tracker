@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-02 15:23 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-02 20:04 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -16,7 +16,7 @@ _Auto-generated 2026-10-02 15:23 UTC · Sleeper league `1353605511664115712` · 
 | RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
-| RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
+| RB | Ray Davis | BUF | #3 | Questionable | 26 | 2 |
 | RB | Tyrone Tracy | NYG | #4 | Questionable | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
@@ -40,4 +40,3 @@ _Auto-generated 2026-10-02 15:23 UTC · Sleeper league `1353605511664115712` · 
 - **Stefon Diggs** — [Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
 - **Patrick Mahomes** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
-- **Mike Evans** — [What's next for 49ers receivers Aiyuk, Deebo and Pearsall?](https://www.espn.com/nfl/story/_/id/49516913/san-francisco-49ers-brandon-aiyuk-commanders-deebo-samuel-ricky-pearsall-fantasy)
