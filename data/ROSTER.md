@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-04 17:17 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-04 20:19 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -15,13 +15,13 @@ _Auto-generated 2026-10-04 17:17 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
-| RB | Tank Bigsby | PHI | #2 | Active | 24 | 3 |
+| RB | Tank Bigsby | PHI | #2 | Questionable | 24 | 3 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
+| RB | Tyrone Tracy | NYG | #3 | Active | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
-| WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
+| WR | Mike Evans | SF | #1 | Active | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
