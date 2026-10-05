@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-05 09:26 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-05 18:44 UTC · Sleeper league `1353605511664115712` · 27 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -34,6 +34,8 @@ _Auto-generated 2026-10-05 09:26 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Tony Pollard** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
+- **Aaron Jones** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Mike Evans** — [49ers WR Mike Evans a game-time decision with rib injury](https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury)
 - **Mike Evans** — [Fantasy football Week 4 inactives: Daniels, DeVonta to sit, McConkey questionable](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active)
 - **Josh Allen** — [Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces](https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace)
