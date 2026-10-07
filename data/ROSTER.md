@@ -1,9 +1,10 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-07 04:20 UTC · Sleeper league `1353605511664115712` · 27 players_
+_Auto-generated 2026-10-07 11:14 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
+| QB | Jameis Winston | NYG | #1 | Active | 32 | 11 |
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Michael Penix | ATL | #1 | Active | 26 | 2 |
@@ -28,9 +29,9 @@ _Auto-generated 2026-10-07 04:20 UTC · Sleeper league `1353605511664115712` · 
 | TE | Kyle Pitts | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #2 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
 | K | Tyler Loop | BAL | #1 | Active | 25 | 1 |
-| DEF | Green Bay Packers | GB | — | Active | — | — |
+| DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
