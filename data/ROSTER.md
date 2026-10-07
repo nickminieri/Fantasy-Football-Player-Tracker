@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-07 11:14 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-07 17:54 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -23,13 +23,13 @@ _Auto-generated 2026-10-07 11:14 UTC · Sleeper league `1353605511664115712` · 
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Active | 33 | 12 |
-| WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
+| WR | Stefon Diggs | WAS | #1 | Questionable | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #2 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
 | K | Tyler Loop | BAL | #1 | Active | 25 | 1 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
