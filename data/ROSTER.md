@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-08 17:20 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-08 22:17 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -12,14 +12,14 @@ _Auto-generated 2026-10-08 17:20 UTC · Sleeper league `1353605511664115712` · 
 | RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
-| RB | Tony Pollard | TEN | #1 | Questionable | 29 | 7 |
-| RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
+| RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Jaylen Wright | MIA | #2 | Questionable | 23 | 2 |
 | RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
-| WR | Chris Olave | NO | #1 | Active | 26 | 4 |
+| WR | Chris Olave | NO | #1 | Questionable | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
@@ -30,11 +30,12 @@ _Auto-generated 2026-10-08 17:20 UTC · Sleeper league `1353605511664115712` · 
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
-| K | Tyler Loop | BAL | #1 | Active | 25 | 1 |
+| K | Tyler Bass | BUF | #1 | Active | 29 | 6 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
+- **Patrick Mahomes** — [Shai Gilgeous-Alexander joins athletes who became owners](https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners)
 - **Patrick Mahomes** — [Why a Tyreek Hill-Chiefs reunion makes so much sense](https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help)
 - **Tony Pollard** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Aaron Jones** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
