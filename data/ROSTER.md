@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-09 16:26 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-09 21:06 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -19,22 +19,23 @@ _Auto-generated 2026-10-09 16:26 UTC · Sleeper league `1353605511664115712` · 
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Tyrone Tracy | NYG | #4 | Active | 26 | 2 |
-| WR | Chris Olave | NO | #1 | Questionable | 26 | 4 |
+| WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
-| WR | Stefon Diggs | WAS | #2 | Questionable | 32 | 11 |
+| WR | Stefon Diggs | WAS | #2 | Out | 32 | 11 |
 | WR | Jaylin Noel | HOU | #3 | Active | 24 | 1 |
 | TE | Kyle Pitts | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #7 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #5 | IR | 23 | 0 |
 | K | Tyler Bass | BUF | #1 | Active | 29 | 6 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
+- **Stefon Diggs** — [Commanders QB Daniels will play, WR Diggs out against Giants](https://www.espn.com/nfl/story/_/id/50141410/commanders-qb-daniels-play-wr-diggs-giants)
 - **Patrick Mahomes** — [Shai Gilgeous-Alexander joins athletes who became owners](https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners)
 - **Patrick Mahomes** — [Why a Tyreek Hill-Chiefs reunion makes so much sense](https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help)
 - **Tony Pollard** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
