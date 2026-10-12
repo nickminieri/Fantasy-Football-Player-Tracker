@@ -1,13 +1,13 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-12 02:33 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-12 10:13 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Jameis Winston | NYG | #1 | Active | 32 | 11 |
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
-| QB | Michael Penix | ATL | #1 | Active | 26 | 2 |
+| QB | Michael Penix | ATL | #1 | Questionable | 26 | 2 |
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
 | RB | Aaron Jones | MIN | #1 | Questionable | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
@@ -35,6 +35,8 @@ _Auto-generated 2026-10-12 02:33 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [Mike Evans stars in 49ers' win: 'Exactly why he's here'](https://www.espn.com/nfl/story/_/id/50163672/mike-evans-stars-49ers-win-exactly-why-here)
+- **Josh Allen** — [How Bills QB Josh Allen has become a star on and off the field](https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements)
 - **Mike Evans** — [Week 5 winners and losers: Maye, Warren, Gibbs dominate; Taylor, Brown struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50160964/nfl-week-5-fantasy-football-winners-losers-injuries-rankings-more)
 - **Stefon Diggs** — [Commanders QB Daniels will play, WR Diggs out against Giants](https://www.espn.com/nfl/story/_/id/50141410/commanders-qb-daniels-play-wr-diggs-giants)
 - **Patrick Mahomes** — [Shai Gilgeous-Alexander joins athletes who became owners](https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners)
