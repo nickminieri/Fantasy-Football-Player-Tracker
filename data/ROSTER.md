@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-12 10:13 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-12 19:55 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-12 10:13 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Jameis Winston** — [Fantasy football free agent pickups: Pair of Packers lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50165058/fantasy-football-waivers-free-agent-pickups-nfl-week-6)
 - **Mike Evans** — [Mike Evans stars in 49ers' win: 'Exactly why he's here'](https://www.espn.com/nfl/story/_/id/50163672/mike-evans-stars-49ers-win-exactly-why-here)
 - **Josh Allen** — [How Bills QB Josh Allen has become a star on and off the field](https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements)
 - **Mike Evans** — [Week 5 winners and losers: Maye, Warren, Gibbs dominate; Taylor, Brown struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50160964/nfl-week-5-fantasy-football-winners-losers-injuries-rankings-more)
