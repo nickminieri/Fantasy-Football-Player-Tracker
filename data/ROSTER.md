@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-13 16:45 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-13 21:42 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,8 @@ _Auto-generated 2026-10-13 16:45 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Knockout league pickups: Walker, Lamb, McMillan among big names available](https://www.espn.com/fantasy/football/story/_/id/50174803/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-6)
+- **Mark Andrews** — [Yes, it's OK to drop these underperformers from your fantasy football team](https://www.espn.com/fantasy/football/story/_/id/50175469/fantasy-football-players-drop)
 - **Mike Evans** — [Rest-of-season rankings: Packers WRs rise, Jalen Hurts sinks further](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Josh Allen** — [Bills, Josh Allen outlast Rams in overtime on MNF](https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen)
 - **Josh Allen** — [Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF](https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf)
