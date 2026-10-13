@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-13 01:48 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-13 08:56 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,8 @@ _Auto-generated 2026-10-13 01:48 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Bills, Josh Allen outlast Rams in overtime on MNF](https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen)
+- **Josh Allen** — [Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF](https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf)
 - **Jameis Winston** — [Fantasy football free agent pickups: Pair of Packers lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50165058/fantasy-football-waivers-free-agent-pickups-nfl-week-6)
 - **Mike Evans** — [Mike Evans stars in 49ers' win: 'Exactly why he's here'](https://www.espn.com/nfl/story/_/id/50163672/mike-evans-stars-49ers-win-exactly-why-here)
 - **Josh Allen** — [How Bills QB Josh Allen has become a star on and off the field](https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements)
