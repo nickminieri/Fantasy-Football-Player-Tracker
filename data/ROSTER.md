@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-14 15:53 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-14 19:57 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -11,7 +11,7 @@ _Auto-generated 2026-10-14 15:53 UTC · Sleeper league `1353605511664115712` · 
 | RB | Aaron Jones | MIN | #1 | Questionable | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
-| RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Tony Pollard | TEN | #1 | Questionable | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
 | RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
