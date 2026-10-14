@@ -1,10 +1,9 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-14 11:11 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-14 15:53 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
-| QB | Jameis Winston | NYG | #1 | Active | 32 | 11 |
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Michael Penix | ATL | #1 | Questionable | 26 | 2 |
@@ -15,6 +14,7 @@ _Auto-generated 2026-10-14 11:11 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
 | RB | Najee Harris | NYG | #2 | Active | 28 | 5 |
+| RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tyrone Tracy | NYG | #3 | Active | 26 | 2 |
@@ -35,6 +35,8 @@ _Auto-generated 2026-10-14 11:11 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence](https://www.espn.com/fantasy/football/story/_/id/50176395/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
+- **Mike Evans** — [Facts vs. Feelings: Out of Love with Jeremiyah, but another Cardinal looms](https://www.espn.com/fantasy/football/story/_/id/50181259/facts-vs-feelings-fantasy-advice-week-6)
 - **Patrick Mahomes** — [Knockout league pickups: Walker, Lamb, McMillan among big names available](https://www.espn.com/fantasy/football/story/_/id/50174803/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-6)
 - **Mark Andrews** — [Yes, it's OK to drop these underperformers from your fantasy football team](https://www.espn.com/fantasy/football/story/_/id/50175469/fantasy-football-players-drop)
 - **Mike Evans** — [Rest-of-season rankings: Packers WRs rise, Jalen Hurts sinks further](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
