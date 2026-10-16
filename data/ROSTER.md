@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-16 20:30 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-16 23:14 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -20,7 +20,7 @@ _Auto-generated 2026-10-16 20:30 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tyrone Tracy | NYG | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | WR | Chris Olave | NO | #1 | Questionable | 26 | 4 |
-| WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
+| WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
