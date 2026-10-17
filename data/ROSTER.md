@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-17 16:49 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-17 19:00 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,8 @@ _Auto-generated 2026-10-17 16:49 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
+- **Mike Evans** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
 - **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence](https://www.espn.com/fantasy/football/story/_/id/50176395/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
 - **Mike Evans** — [Facts vs. Feelings: Out of Love with Jeremiyah, but another Cardinal looms](https://www.espn.com/fantasy/football/story/_/id/50181259/facts-vs-feelings-fantasy-advice-week-6)
 - **Patrick Mahomes** — [Knockout league pickups: Walker, Lamb, McMillan among big names available](https://www.espn.com/fantasy/football/story/_/id/50174803/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-6)
@@ -58,4 +60,3 @@ _Auto-generated 2026-10-17 16:49 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week](https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know)
 - **Stefon Diggs** — [Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
-- **Patrick Mahomes** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
