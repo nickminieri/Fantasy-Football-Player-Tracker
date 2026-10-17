@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-17 21:35 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-17 23:44 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-17 21:35 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk](https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night)
 - **Stefon Diggs** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
 - **Mike Evans** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
 - **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence](https://www.espn.com/fantasy/football/story/_/id/50176395/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-17 21:35 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Patrick Mahomes, Chiefs have rediscovered the deep pass](https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy)
 - **Patrick Mahomes** — [What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week](https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know)
 - **Stefon Diggs** — [Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Josh Allen** — [2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more](https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach)
