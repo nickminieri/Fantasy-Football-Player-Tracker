@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-18 03:02 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-18 08:13 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
