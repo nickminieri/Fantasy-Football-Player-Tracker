@@ -1,12 +1,12 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-18 16:20 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-18 18:45 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
-| QB | Michael Penix | ATL | #1 | Active | 26 | 2 |
+| QB | Michael Penix | ATL | #1 | Questionable | 26 | 2 |
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
 | RB | Aaron Jones | MIN | #1 | Questionable | 31 | 9 |
 | RB | James Cook | BUF | #1 | Active | 27 | 4 |
