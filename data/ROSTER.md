@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-19 01:32 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-19 07:18 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-19 01:32 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady](https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins)
 - **Mike Evans** — [49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk](https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night)
 - **Stefon Diggs** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
 - **Mike Evans** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-19 01:32 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces](https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace)
 - **Patrick Mahomes** — [Patrick Mahomes, Chiefs have rediscovered the deep pass](https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy)
 - **Patrick Mahomes** — [What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week](https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know)
-- **Stefon Diggs** — [Fantasy football buzz: Jaylen Warren in for heavy workload, 10 trends to know before you set your lineup](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
