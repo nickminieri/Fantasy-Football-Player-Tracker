@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-19 07:18 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-19 14:50 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -29,12 +29,13 @@ _Auto-generated 2026-10-19 07:18 UTC · Sleeper league `1353605511664115712` · 
 | TE | Kyle Pitts | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
+| TE | Eli Stowers | PHI | #5 | IR | 23 | 0 |
 | K | Tyler Loop | BAL | #1 | Active | 25 | 1 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
+- **Josh Allen** — [Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD](https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady](https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins)
 - **Mike Evans** — [49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk](https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night)
 - **Stefon Diggs** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-19 07:18 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [Fantasy football Week 4 inactives: Daniels, DeVonta to sit, McConkey questionable](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active)
 - **Josh Allen** — [Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces](https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace)
 - **Patrick Mahomes** — [Patrick Mahomes, Chiefs have rediscovered the deep pass](https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy)
-- **Patrick Mahomes** — [What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week](https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know)
