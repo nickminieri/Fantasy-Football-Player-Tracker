@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-19 23:51 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-20 03:25 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -22,7 +22,7 @@ _Auto-generated 2026-10-19 23:51 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
-| WR | Mike Evans | SF | #1 | Active | 33 | 12 |
+| WR | Mike Evans | SF | #1 | Out | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-19 23:51 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [49ers rule out Mike Evans due to Achilles injury](https://www.espn.com/nfl/story/_/id/50223535/49ers-rule-mike-evans-due-achilles-injury)
 - **Josh Allen** — [Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD](https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady](https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins)
 - **Mike Evans** — [49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk](https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-19 23:51 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [49ers WR Mike Evans a game-time decision with rib injury](https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury)
 - **Mike Evans** — [Fantasy football Week 4 inactives: Daniels, DeVonta to sit, McConkey questionable](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active)
 - **Josh Allen** — [Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces](https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace)
-- **Patrick Mahomes** — [Patrick Mahomes, Chiefs have rediscovered the deep pass](https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy)
