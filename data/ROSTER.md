@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-20 18:35 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-20 22:05 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -13,12 +13,12 @@ _Auto-generated 2026-10-20 18:35 UTC · Sleeper league `1353605511664115712` · 
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
-| RB | Najee Harris | FA | #2 | Active | 28 | 5 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
+| RB | Tyrone Tracy | NYG | #2 | Active | 26 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tyrone Tracy | NYG | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #5 | IR | 24 | 3 |
+| RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
