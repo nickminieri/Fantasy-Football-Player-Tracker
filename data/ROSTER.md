@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-21 16:01 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-21 20:17 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -20,7 +20,7 @@ _Auto-generated 2026-10-21 16:01 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
-| WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
+| WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-21 16:01 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Why the Bills have been historically good, and bad, through six weeks](https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye)
 - **Mark Andrews** — [Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions](https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7)
 - **Aaron Jones** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
 - **Mike Evans** — [49ers rule out Mike Evans due to Achilles injury](https://www.espn.com/nfl/story/_/id/50223535/49ers-rule-mike-evans-due-achilles-injury)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-21 16:01 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Why a Tyreek Hill-Chiefs reunion makes so much sense](https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help)
 - **Tony Pollard** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Aaron Jones** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Mike Evans** — [49ers WR Mike Evans a game-time decision with rib injury](https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury)
