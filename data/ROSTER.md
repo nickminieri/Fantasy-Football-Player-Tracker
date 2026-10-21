@@ -1,21 +1,21 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-21 20:17 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-21 23:30 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
-| QB | Michael Penix | ATL | #1 | Active | 26 | 2 |
+| QB | Michael Penix Jr. | ATL | #1 | Active | 26 | 2 |
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
-| RB | Aaron Jones | MIN | #1 | Active | 31 | 9 |
-| RB | James Cook | BUF | #1 | Active | 27 | 4 |
+| RB | Aaron Jones Sr. | MIN | #1 | Active | 31 | 9 |
+| RB | James Cook III | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
-| RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
+| RB | Jaylen Wright | MIA | #2 | Questionable | 23 | 2 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
-| RB | Tyrone Tracy | NYG | #2 | Active | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #2 | Active | 26 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
@@ -26,7 +26,7 @@ _Auto-generated 2026-10-21 20:17 UTC · Sleeper league `1353605511664115712` · 
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
-| TE | Kyle Pitts | ATL | #1 | Active | 26 | 5 |
+| TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | TE | Eli Stowers | PHI | #6 | IR | 23 | 0 |
@@ -37,7 +37,7 @@ _Auto-generated 2026-10-21 20:17 UTC · Sleeper league `1353605511664115712` · 
 
 - **Josh Allen** — [Why the Bills have been historically good, and bad, through six weeks](https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye)
 - **Mark Andrews** — [Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions](https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7)
-- **Aaron Jones** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
+- **Aaron Jones Sr.** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
 - **Mike Evans** — [49ers rule out Mike Evans due to Achilles injury](https://www.espn.com/nfl/story/_/id/50223535/49ers-rule-mike-evans-due-achilles-injury)
 - **Josh Allen** — [Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD](https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady](https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins)
@@ -59,4 +59,4 @@ _Auto-generated 2026-10-21 20:17 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Shai Gilgeous-Alexander joins athletes who became owners](https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners)
 - **Patrick Mahomes** — [Why a Tyreek Hill-Chiefs reunion makes so much sense](https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help)
 - **Tony Pollard** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Aaron Jones** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
+- **Aaron Jones Sr.** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
