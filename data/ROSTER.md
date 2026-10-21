@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-20 22:05 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-21 00:45 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,7 +17,7 @@ _Auto-generated 2026-10-20 22:05 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Active | 24 | 0 |
 | RB | Tyrone Tracy | NYG | #2 | Active | 26 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tank Bigsby | PHI | #5 | IR | 24 | 3 |
+| RB | Tank Bigsby | PHI | #3 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
