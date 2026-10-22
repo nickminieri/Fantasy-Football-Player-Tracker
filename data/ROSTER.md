@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-22 08:49 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-22 14:20 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,8 @@ _Auto-generated 2026-10-22 08:49 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Aaron Jones Sr.** — [Vikings praise Aaron Jones Sr.'s heart with Jordan Mason out](https://www.espn.com/nfl/story/_/id/50242272/vikings-praise-aaron-jones-heart-jordan-mason)
+- **Patrick Mahomes** — [Fantasy football buzz: Notable names you can bench in tough matchups this week](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [Why the Bills have been historically good, and bad, through six weeks](https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye)
 - **Mark Andrews** — [Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions](https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7)
 - **Aaron Jones Sr.** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
@@ -58,5 +60,3 @@ _Auto-generated 2026-10-22 08:49 UTC · Sleeper league `1353605511664115712` · 
 - **Stefon Diggs** — [Commanders QB Daniels will play, WR Diggs out against Giants](https://www.espn.com/nfl/story/_/id/50141410/commanders-qb-daniels-play-wr-diggs-giants)
 - **Patrick Mahomes** — [Shai Gilgeous-Alexander joins athletes who became owners](https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners)
 - **Patrick Mahomes** — [Why a Tyreek Hill-Chiefs reunion makes so much sense](https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help)
-- **Tony Pollard** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Aaron Jones Sr.** — [Fantasy football Sunday recap: Who got the ball in Week 4?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
