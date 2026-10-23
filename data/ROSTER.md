@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-23 05:43 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-23 11:00 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-23 05:43 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?](https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker)
 - **Chris Boswell** — [What are the longest field goals in NFL history?](https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history)
 - **Aaron Jones Sr.** — [Vikings praise Aaron Jones Sr.'s heart with Jordan Mason out](https://www.espn.com/nfl/story/_/id/50242272/vikings-praise-aaron-jones-heart-jordan-mason)
 - **Patrick Mahomes** — [Fantasy football buzz: Notable names you can bench in tough matchups this week](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-23 05:43 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [How Bills QB Josh Allen has become a star on and off the field](https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements)
 - **Mike Evans** — [Week 5 winners and losers: Maye, Warren, Gibbs dominate; Taylor, Brown struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50160964/nfl-week-5-fantasy-football-winners-losers-injuries-rankings-more)
 - **Stefon Diggs** — [Commanders QB Daniels will play, WR Diggs out against Giants](https://www.espn.com/nfl/story/_/id/50141410/commanders-qb-daniels-play-wr-diggs-giants)
-- **Patrick Mahomes** — [Shai Gilgeous-Alexander joins athletes who became owners](https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners)
