@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-23 15:48 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-23 19:46 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -20,12 +20,12 @@ _Auto-generated 2026-10-23 15:48 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
-| WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
+| WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
-| WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
+| WR | Jaylin Noel | HOU | #2 | Active | 24 | 1 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
-| WR | Jaylin Noel | HOU | #4 | Active | 24 | 1 |
+| WR | Mike Evans | SF | #3 | Questionable | 33 | 12 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
