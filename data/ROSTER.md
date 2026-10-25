@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-25 18:07 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-25 21:03 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -8,14 +8,14 @@ _Auto-generated 2026-10-25 18:07 UTC · Sleeper league `1353605511664115712` · 
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Michael Penix Jr. | ATL | #1 | Active | 26 | 2 |
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
-| RB | Aaron Jones Sr. | MIN | #1 | Active | 31 | 9 |
+| RB | Aaron Jones Sr. | MIN | #1 | Questionable | 31 | 9 |
 | RB | James Cook III | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
-| RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
+| RB | Jaylen Wright | MIA | #2 | Questionable | 23 | 2 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
-| RB | Tyrone Tracy Jr. | NYG | #2 | Active | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #2 | Questionable | 26 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
@@ -23,7 +23,7 @@ _Auto-generated 2026-10-25 18:07 UTC · Sleeper league `1353605511664115712` · 
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Jaylin Noel | HOU | #2 | Active | 24 | 1 |
+| WR | Jaylin Noel | HOU | #2 | Questionable | 24 | 1 |
 | WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Mike Evans | SF | #5 | Out | 33 | 12 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
