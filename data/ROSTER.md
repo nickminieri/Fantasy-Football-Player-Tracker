@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-25 10:43 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-25 14:47 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-25 10:43 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes](https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting)
 - **Aaron Jones Sr.** — [Vikings activate RB Jordan Mason off injured reserve](https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve)
 - **Mike Evans** — [49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return](https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return)
 - **Patrick Mahomes** — [Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?](https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-25 10:43 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF](https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf)
 - **Jameis Winston** — [Fantasy football free agent pickups: Pair of Packers lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50165058/fantasy-football-waivers-free-agent-pickups-nfl-week-6)
 - **Mike Evans** — [Mike Evans stars in 49ers' win: 'Exactly why he's here'](https://www.espn.com/nfl/story/_/id/50163672/mike-evans-stars-49ers-win-exactly-why-here)
-- **Josh Allen** — [How Bills QB Josh Allen has become a star on and off the field](https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements)
