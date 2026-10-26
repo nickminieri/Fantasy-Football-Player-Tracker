@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-26 13:52 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-26 19:44 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-26 13:52 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Aaron Jones Sr.** — [Vikings RB Jones avoids serious knee injury, day-to-day](https://www.espn.com/nfl/story/_/id/50289047/vikings-rb-jones-avoids-serious-knee-injury-day-day)
 - **Patrick Mahomes** — [Week 7 winners and losers: Pollard, Burrow lead the way; Walker III, Purdy struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
 - **Tony Pollard** — [Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?](https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals)
 - **Tony Pollard** — [Week 7 winners and losers: Pollard, Burrow lead the way; Purdy, Henry struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-26 13:52 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Knockout league pickups: Walker, Lamb, McMillan among big names available](https://www.espn.com/fantasy/football/story/_/id/50174803/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-6)
 - **Mark Andrews** — [Yes, it's OK to drop these underperformers from your fantasy football team](https://www.espn.com/fantasy/football/story/_/id/50175469/fantasy-football-players-drop)
 - **Mike Evans** — [Rest-of-season rankings: Packers WRs rise, Jalen Hurts sinks further](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
-- **Josh Allen** — [Bills, Josh Allen outlast Rams in overtime on MNF](https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen)
