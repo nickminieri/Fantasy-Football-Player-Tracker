@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-25 23:26 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-26 01:29 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-25 23:26 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Tony Pollard** — [Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?](https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals)
 - **Tony Pollard** — [Week 7 winners and losers: Pollard, Burrow lead the way; Purdy, Henry struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
 - **Patrick Mahomes** — [Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes](https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting)
 - **Aaron Jones Sr.** — [Vikings activate RB Jordan Mason off injured reserve](https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-25 23:26 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [Rest-of-season rankings: Packers WRs rise, Jalen Hurts sinks further](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Josh Allen** — [Bills, Josh Allen outlast Rams in overtime on MNF](https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen)
 - **Josh Allen** — [Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF](https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf)
-- **Jameis Winston** — [Fantasy football free agent pickups: Pair of Packers lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50165058/fantasy-football-waivers-free-agent-pickups-nfl-week-6)
