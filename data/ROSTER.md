@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-27 15:43 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-27 20:25 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -15,7 +15,7 @@ _Auto-generated 2026-10-27 15:43 UTC · Sleeper league `1353605511664115712` · 
 | RB | Jaylen Wright | MIA | #2 | Questionable | 23 | 2 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
-| RB | Tyrone Tracy Jr. | NYG | #2 | Questionable | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #2 | Out | 26 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
