@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-27 09:35 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-27 15:43 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -22,19 +22,21 @@ _Auto-generated 2026-10-27 09:35 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
+| WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Jaylin Noel | HOU | #2 | Questionable | 24 | 1 |
-| WR | Stefon Diggs | WAS | #2 | Active | 32 | 11 |
 | WR | Mike Evans | SF | #5 | Out | 33 | 12 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
-| TE | Eli Stowers | PHI | #3 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
+| TE | Eli Stowers | PHI | #4 | Active | 23 | 0 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
+- **Josh Allen** — [Is Bills' Josh Allen the best goal-line rusher ever?](https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher)
+- **Patrick Mahomes** — [Rest-of-season rankings: Brock Purdy dips; Omar Cooper Jr., KC Concepcion rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Aaron Jones Sr.** — [Vikings RB Jones avoids serious knee injury, day-to-day](https://www.espn.com/nfl/story/_/id/50289047/vikings-rb-jones-avoids-serious-knee-injury-day-day)
 - **Patrick Mahomes** — [Week 7 winners and losers: Pollard, Burrow lead the way; Walker III, Purdy struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
 - **Tony Pollard** — [Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?](https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals)
@@ -58,5 +60,3 @@ _Auto-generated 2026-10-27 09:35 UTC · Sleeper league `1353605511664115712` · 
 - **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence](https://www.espn.com/fantasy/football/story/_/id/50176395/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
 - **Mike Evans** — [Facts vs. Feelings: Out of Love with Jeremiyah, but another Cardinal looms](https://www.espn.com/fantasy/football/story/_/id/50181259/facts-vs-feelings-fantasy-advice-week-6)
 - **Patrick Mahomes** — [Knockout league pickups: Walker, Lamb, McMillan among big names available](https://www.espn.com/fantasy/football/story/_/id/50174803/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-6)
-- **Mark Andrews** — [Yes, it's OK to drop these underperformers from your fantasy football team](https://www.espn.com/fantasy/football/story/_/id/50175469/fantasy-football-players-drop)
-- **Mike Evans** — [Rest-of-season rankings: Packers WRs rise, Jalen Hurts sinks further](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
