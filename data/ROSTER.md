@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-27 20:25 UTC · Sleeper league `1353605511664115712` · 28 players_
+_Auto-generated 2026-10-27 23:54 UTC · Sleeper league `1353605511664115712` · 28 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -15,7 +15,7 @@ _Auto-generated 2026-10-27 20:25 UTC · Sleeper league `1353605511664115712` · 
 | RB | Jaylen Wright | MIA | #2 | Questionable | 23 | 2 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
-| RB | Tyrone Tracy Jr. | NYG | #2 | Out | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #2 | IR | 26 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
@@ -35,6 +35,7 @@ _Auto-generated 2026-10-27 20:25 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Knockout league pickups: Prioritize running backs while they're available](https://www.espn.com/fantasy/football/story/_/id/50300509/knockout-waiver-wire-free-agent-pickups)
 - **Josh Allen** — [Is Bills' Josh Allen the best goal-line rusher ever?](https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher)
 - **Patrick Mahomes** — [Rest-of-season rankings: Brock Purdy dips; Omar Cooper Jr., KC Concepcion rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Aaron Jones Sr.** — [Vikings RB Jones avoids serious knee injury, day-to-day](https://www.espn.com/nfl/story/_/id/50289047/vikings-rb-jones-avoids-serious-knee-injury-day-day)
@@ -59,4 +60,3 @@ _Auto-generated 2026-10-27 20:25 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play](https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active)
 - **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence](https://www.espn.com/fantasy/football/story/_/id/50176395/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
 - **Mike Evans** — [Facts vs. Feelings: Out of Love with Jeremiyah, but another Cardinal looms](https://www.espn.com/fantasy/football/story/_/id/50181259/facts-vs-feelings-fantasy-advice-week-6)
-- **Patrick Mahomes** — [Knockout league pickups: Walker, Lamb, McMillan among big names available](https://www.espn.com/fantasy/football/story/_/id/50174803/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-6)
