@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-29 01:32 UTC · Sleeper league `1353605511664115712` · 29 players_
+_Auto-generated 2026-10-29 08:01 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -31,6 +31,7 @@ _Auto-generated 2026-10-29 01:32 UTC · Sleeper league `1353605511664115712` · 
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | TE | Eli Stowers | PHI | #4 | Active | 23 | 0 |
+| K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
