@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-30 06:11 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-10-30 13:18 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,8 @@ _Auto-generated 2026-10-30 06:11 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Answering 10 questions about Chiefs-Broncos showdown for first place in AFC West](https://www.espn.com/nfl/story/_/id/50319759/kansas-city-chiefs-denver-broncos-afc-west-division-lead)
+- **Tony Pollard** — [NFL trade deadline: A Colts duo and others to keep tabs on for fantasy football](https://www.espn.com/fantasy/football/story/_/id/50319084/nfl-trade-deadline-2026-fantasy-football-potential-impact)
 - **Devin Singletary** — [Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8)
 - **Devin Singletary** — [Giants place RB Tyrone Tracy Jr. on IR with hamstring injury](https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury)
 - **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Irving, downgrade Williams](https://www.espn.com/fantasy/football/story/_/id/50289452/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
@@ -60,5 +62,3 @@ _Auto-generated 2026-10-30 06:11 UTC · Sleeper league `1353605511664115712` · 
 - **Aaron Jones Sr.** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
 - **Mike Evans** — [49ers rule out Mike Evans due to Achilles injury](https://www.espn.com/nfl/story/_/id/50223535/49ers-rule-mike-evans-due-achilles-injury)
 - **Josh Allen** — [Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD](https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium)
-- **Patrick Mahomes** — [Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady](https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins)
-- **Mike Evans** — [49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk](https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night)
