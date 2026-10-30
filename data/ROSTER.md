@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-30 18:43 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-10-30 22:46 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,7 +17,7 @@ _Auto-generated 2026-10-30 18:43 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
 | RB | Tyrone Tracy Jr. | NYG | #2 | IR | 26 | 2 |
 | RB | Devin Singletary | NYG | #3 | Active | 29 | 7 |
-| RB | Ray Davis | BUF | #3 | Questionable | 26 | 2 |
+| RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
@@ -29,8 +29,8 @@ _Auto-generated 2026-10-30 18:43 UTC · Sleeper league `1353605511664115712` · 
 | WR | Mike Evans | SF | #5 | Out | 33 | 12 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
+| TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
-| TE | Eli Stowers | PHI | #4 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
 | K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
