@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-31 08:39 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-10-31 15:01 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,7 @@ _Auto-generated 2026-10-31 08:39 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Will the Bills' defense stop them from winning a Super Bowl?](https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau)
 - **Patrick Mahomes** — [Answering 10 questions about Chiefs-Broncos showdown for first place in AFC West](https://www.espn.com/nfl/story/_/id/50319759/kansas-city-chiefs-denver-broncos-afc-west-division-lead)
 - **Tony Pollard** — [NFL trade deadline: A Colts duo and others to keep tabs on for fantasy football](https://www.espn.com/fantasy/football/story/_/id/50319084/nfl-trade-deadline-2026-fantasy-football-potential-impact)
 - **Devin Singletary** — [Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8)
@@ -61,4 +62,3 @@ _Auto-generated 2026-10-31 08:39 UTC · Sleeper league `1353605511664115712` · 
 - **Mark Andrews** — [Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions](https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7)
 - **Aaron Jones Sr.** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
 - **Mike Evans** — [49ers rule out Mike Evans due to Achilles injury](https://www.espn.com/nfl/story/_/id/50223535/49ers-rule-mike-evans-due-achilles-injury)
-- **Josh Allen** — [Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD](https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium)
