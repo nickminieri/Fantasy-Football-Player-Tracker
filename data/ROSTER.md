@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-01 15:44 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-01 20:09 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -32,7 +32,7 @@ _Auto-generated 2026-11-01 15:44 UTC · Sleeper league `1353605511664115712` · 
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
-| K | Chris Boswell | PIT | #1 | Active | 35 | 12 |
+| K | Tyler Bass | BUF | #1 | Active | 29 | 6 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
