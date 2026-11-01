@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-10-31 22:41 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-01 01:50 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -10,7 +10,7 @@ _Auto-generated 2026-10-31 22:41 UTC · Sleeper league `1353605511664115712` · 
 | QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
 | RB | Aaron Jones Sr. | MIN | #1 | Active | 31 | 9 |
 | RB | James Cook III | BUF | #1 | Active | 27 | 4 |
-| RB | Jaylen Warren | PIT | #1 | Active | 27 | 4 |
+| RB | Jaylen Warren | PIT | #1 | Active | 28 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
