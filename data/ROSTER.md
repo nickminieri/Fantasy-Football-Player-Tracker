@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-02 12:47 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-02 22:08 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,8 @@ _Auto-generated 2026-11-02 12:47 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Devin Singletary** — [Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9)
+- **Patrick Mahomes** — [Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race](https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings)
 - **Tony Pollard** — [Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50350092/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more)
 - **Josh Allen** — [Josh Allen's halftime words fuel Bills' 2nd-half surge in win over Ravens](https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens)
 - **Josh Allen** — [Will the Bills' defense stop them from winning a Super Bowl?](https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau)
@@ -60,5 +62,3 @@ _Auto-generated 2026-11-02 12:47 UTC · Sleeper league `1353605511664115712` · 
 - **Chris Boswell** — [What are the longest field goals in NFL history?](https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history)
 - **Aaron Jones Sr.** — [Vikings praise Aaron Jones Sr.'s heart with Jordan Mason out](https://www.espn.com/nfl/story/_/id/50242272/vikings-praise-aaron-jones-heart-jordan-mason)
 - **Patrick Mahomes** — [Fantasy football buzz: Notable names you can bench in tough matchups this week](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Josh Allen** — [Why the Bills have been historically good, and bad, through six weeks](https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye)
-- **Mark Andrews** — [Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions](https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7)
