@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-01 23:44 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-02 04:27 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-01 23:44 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Tony Pollard** — [Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50350092/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more)
 - **Josh Allen** — [Josh Allen's halftime words fuel Bills' 2nd-half surge in win over Ravens](https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens)
 - **Josh Allen** — [Will the Bills' defense stop them from winning a Super Bowl?](https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau)
 - **Patrick Mahomes** — [Answering 10 questions about Chiefs-Broncos showdown for first place in AFC West](https://www.espn.com/nfl/story/_/id/50319759/kansas-city-chiefs-denver-broncos-afc-west-division-lead)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-01 23:44 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Fantasy football buzz: Notable names you can bench in tough matchups this week](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Josh Allen** — [Why the Bills have been historically good, and bad, through six weeks](https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye)
 - **Mark Andrews** — [Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions](https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7)
-- **Aaron Jones Sr.** — [Knockout league pickups: Trio of Lions among best pickups for Week 7](https://www.espn.com/fantasy/football/story/_/id/50229520/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-7)
