@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-03 11:37 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-03 19:02 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,8 @@ _Auto-generated 2026-11-03 11:37 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
+- **Tony Pollard** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Devin Singletary** — [Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9)
 - **Patrick Mahomes** — [Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race](https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings)
 - **Tony Pollard** — [Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50350092/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more)
@@ -60,5 +62,3 @@ _Auto-generated 2026-11-03 11:37 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return](https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return)
 - **Patrick Mahomes** — [Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?](https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker)
 - **Chris Boswell** — [What are the longest field goals in NFL history?](https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history)
-- **Aaron Jones Sr.** — [Vikings praise Aaron Jones Sr.'s heart with Jordan Mason out](https://www.espn.com/nfl/story/_/id/50242272/vikings-praise-aaron-jones-heart-jordan-mason)
-- **Patrick Mahomes** — [Fantasy football buzz: Notable names you can bench in tough matchups this week](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
