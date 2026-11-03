@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-03 03:34 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-03 11:37 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -12,21 +12,21 @@ _Auto-generated 2026-11-03 03:34 UTC · Sleeper league `1353605511664115712` · 
 | RB | James Cook III | BUF | #1 | Questionable | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 28 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Devin Singletary | NYG | #2 | Active | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
-| RB | Tyrone Tracy Jr. | NYG | #2 | IR | 26 | 2 |
-| RB | Devin Singletary | NYG | #3 | Active | 29 | 7 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
+| RB | Tyrone Tracy Jr. | NYG | #5 | IR | 26 | 2 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
+| WR | Mike Evans | SF | #1 | Out | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Jaylin Noel | HOU | #2 | IR | 24 | 1 |
-| WR | Mike Evans | SF | #5 | Out | 33 | 12 |
+| WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
