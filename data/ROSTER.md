@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-03 19:02 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-04 00:03 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-03 19:02 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
 - **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Tony Pollard** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Devin Singletary** — [Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-03 19:02 UTC · Sleeper league `1353605511664115712` · 
 - **Aaron Jones Sr.** — [Vikings activate RB Jordan Mason off injured reserve](https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve)
 - **Mike Evans** — [49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return](https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return)
 - **Patrick Mahomes** — [Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?](https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker)
-- **Chris Boswell** — [What are the longest field goals in NFL history?](https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history)
