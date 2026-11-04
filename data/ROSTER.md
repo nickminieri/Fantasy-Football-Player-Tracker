@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-04 15:04 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-04 21:23 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -18,15 +18,15 @@ _Auto-generated 2026-11-04 15:04 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #3 | IR | 24 | 3 |
-| RB | Tyrone Tracy Jr. | NYG | #5 | IR | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #4 | IR | 26 | 2 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
-| WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
+| WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Jaylin Noel | HOU | #4 | IR | 24 | 1 |
+| WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-04 15:04 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season](https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season)
 - **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
 - **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Tony Pollard** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-04 15:04 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes](https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting)
 - **Aaron Jones Sr.** — [Vikings activate RB Jordan Mason off injured reserve](https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve)
 - **Mike Evans** — [49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return](https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return)
-- **Patrick Mahomes** — [Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?](https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker)
