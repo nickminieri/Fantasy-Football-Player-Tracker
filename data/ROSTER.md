@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-06 11:18 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-06 18:12 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -22,7 +22,7 @@ _Auto-generated 2026-11-06 11:18 UTC · Sleeper league `1353605511664115712` · 
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
-| WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
+| WR | Garrett Wilson | NYJ | #1 | Out | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-06 11:18 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Devin Singletary** — [Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way](https://www.espn.com/fantasy/football/story/_/id/50392079/fantasy-football-streamers-last-minute-pickups-week-9)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season](https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season)
 - **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
 - **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-06 11:18 UTC · Sleeper league `1353605511664115712` · 
 - **Tony Pollard** — [Week 7 winners and losers: Pollard, Burrow lead the way; Purdy, Henry struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
 - **Patrick Mahomes** — [Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes](https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting)
 - **Aaron Jones Sr.** — [Vikings activate RB Jordan Mason off injured reserve](https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve)
-- **Mike Evans** — [49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return](https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return)
