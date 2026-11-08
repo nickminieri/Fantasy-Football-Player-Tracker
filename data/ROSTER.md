@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-07 23:48 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-08 04:28 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -18,13 +18,13 @@ _Auto-generated 2026-11-07 23:48 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
-| RB | Tyrone Tracy Jr. | NYG | #6 | IR | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #7 | IR | 26 | 2 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Mike Evans | SF | #4 | Out | 33 | 12 |
+| WR | Mike Evans | SF | #5 | Out | 33 | 12 |
 | WR | Garrett Wilson | NYJ | #6 | Out | 26 | 4 |
 | WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
