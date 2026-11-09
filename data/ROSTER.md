@@ -1,13 +1,13 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-08 21:17 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-09 01:07 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
 | QB | Malik Willis | MIA | #1 | Active | 27 | 4 |
 | QB | Michael Penix Jr. | ATL | #1 | Active | 26 | 2 |
-| QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
+| QB | Patrick Mahomes | KC | #1 | Questionable | 31 | 9 |
 | RB | Aaron Jones Sr. | MIN | #1 | Active | 31 | 9 |
 | RB | Devin Singletary | NYG | #1 | Active | 29 | 7 |
 | RB | James Cook III | BUF | #1 | Active | 27 | 4 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-08 21:17 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Chiefs' Patrick Mahomes brushes off injury scare during rout of Jets](https://www.espn.com/nfl/story/_/id/50427266/chiefs-patrick-mahomes-brushes-injury-scare)
 - **Mike Evans** — [Nick Bosa back, Christian McCaffrey good to go for Niners](https://www.espn.com/nfl/story/_/id/50402463/nick-bosa-back-christian-mccaffrey-good-go-niners)
 - **Devin Singletary** — [Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way](https://www.espn.com/fantasy/football/story/_/id/50392079/fantasy-football-streamers-last-minute-pickups-week-9)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season](https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-08 21:17 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Week 7 winners and losers: Pollard, Burrow lead the way; Walker III, Purdy struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
 - **Tony Pollard** — [Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?](https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals)
 - **Tony Pollard** — [Week 7 winners and losers: Pollard, Burrow lead the way; Purdy, Henry struggle](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more)
-- **Patrick Mahomes** — [Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes](https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting)
