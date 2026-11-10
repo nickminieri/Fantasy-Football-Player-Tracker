@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-09 18:59 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-10 01:58 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-09 18:59 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Chiefs QB Patrick Mahomes day-to-day with elbow injury](https://www.espn.com/nfl/story/_/id/50434564/chiefs-qb-patrick-mahomes-day-day-elbow-injury)
 - **Josh Allen** — [How to bet Bills-Vikings: Analysis, best bets and top prop plays](https://www.espn.com/espn/betting/story/_/id/50413261/nfl-week-9-odds-betting-preview-bills-vikings-prop-tips)
 - **Devin Singletary** — [Fantasy football free agent pickups: Douglas, Rodgers, Estime lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50431710/fantasy-football-waivers-free-agent-pickups-nfl-week-10)
 - **Devin Singletary** — [Fantasy buzz: Who got the ball in Week 9?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-09 18:59 UTC · Sleeper league `1353605511664115712` · 
 - **Stefon Diggs** — [Fantasy football matchup rankings: Upgrade Irving, downgrade Williams](https://www.espn.com/fantasy/football/story/_/id/50289452/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
 - **Josh Allen** — [Knockout league pickups: Prioritize running backs while they're available](https://www.espn.com/fantasy/football/story/_/id/50300509/knockout-waiver-wire-free-agent-pickups)
 - **Josh Allen** — [Is Bills' Josh Allen the best goal-line rusher ever?](https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher)
-- **Patrick Mahomes** — [Rest-of-season rankings: Brock Purdy dips; Omar Cooper Jr., KC Concepcion rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
