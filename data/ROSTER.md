@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-11 02:09 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-11 09:43 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,15 +17,15 @@ _Auto-generated 2026-11-11 02:09 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
 | RB | Tank Bigsby | PHI | #2 | IR | 24 | 3 |
 | RB | Ray Davis | BUF | #3 | Active | 27 | 2 |
-| RB | Jaylen Wright | MIA | #6 | Out | 23 | 2 |
+| RB | Jaylen Wright | MIA | #6 | Questionable | 23 | 2 |
 | RB | Tyrone Tracy Jr. | NYG | #6 | IR | 26 | 2 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Garrett Wilson | NYJ | #6 | Out | 26 | 4 |
-| WR | Mike Evans | SF | #6 | Out | 33 | 12 |
+| WR | Garrett Wilson | NYJ | #6 | Questionable | 26 | 4 |
+| WR | Mike Evans | SF | #6 | Questionable | 33 | 12 |
 | WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
@@ -33,10 +33,11 @@ _Auto-generated 2026-11-11 02:09 UTC · Sleeper league `1353605511664115712` · 
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
 | K | Tyler Bass | BUF | #1 | Active | 29 | 6 |
-| DEF | Denver Broncos | DEN | — | Active | — | — |
+| DEF | Green Bay Packers | GB | — | Active | — | — |
 
 ## Recent News
 
+- **Patrick Mahomes** — [Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day](https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement)
 - **Patrick Mahomes** — [From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF](https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif)
 - **Josh Allen** — [Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite](https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite)
 - **Josh Allen** — [Gibbs, Allen, JSN and more Knockout league pickups for Week 10](https://www.espn.com/fantasy/football/story/_/id/50442966/2026-fantasy-football-knockout-leagues-pickups-week-10)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-11 02:09 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Answering 10 questions about Chiefs-Broncos showdown for first place in AFC West](https://www.espn.com/nfl/story/_/id/50319759/kansas-city-chiefs-denver-broncos-afc-west-division-lead)
 - **Tony Pollard** — [NFL trade deadline: A Colts duo and others to keep tabs on for fantasy football](https://www.espn.com/fantasy/football/story/_/id/50319084/nfl-trade-deadline-2026-fantasy-football-potential-impact)
 - **Devin Singletary** — [Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8)
-- **Devin Singletary** — [Giants place RB Tyrone Tracy Jr. on IR with hamstring injury](https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury)
