@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-10 22:29 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-11 02:09 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -15,8 +15,8 @@ _Auto-generated 2026-11-10 22:29 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
-| RB | Ray Davis | BUF | #3 | Active | 26 | 2 |
-| RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
+| RB | Tank Bigsby | PHI | #2 | IR | 24 | 3 |
+| RB | Ray Davis | BUF | #3 | Active | 27 | 2 |
 | RB | Jaylen Wright | MIA | #6 | Out | 23 | 2 |
 | RB | Tyrone Tracy Jr. | NYG | #6 | IR | 26 | 2 |
 | RB | Najee Harris | FA | — | Active | 28 | 5 |
@@ -24,8 +24,8 @@ _Auto-generated 2026-11-10 22:29 UTC · Sleeper league `1353605511664115712` · 
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Mike Evans | SF | #5 | Out | 33 | 12 |
 | WR | Garrett Wilson | NYJ | #6 | Out | 26 | 4 |
+| WR | Mike Evans | SF | #6 | Out | 33 | 12 |
 | WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-10 22:29 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF](https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif)
 - **Josh Allen** — [Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite](https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite)
 - **Josh Allen** — [Gibbs, Allen, JSN and more Knockout league pickups for Week 10](https://www.espn.com/fantasy/football/story/_/id/50442966/2026-fantasy-football-knockout-leagues-pickups-week-10)
 - **Aaron Jones Sr.** — [Josh Allen leads Bills to win over tough Vikings defense](https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-10 22:29 UTC · Sleeper league `1353605511664115712` · 
 - **Tony Pollard** — [NFL trade deadline: A Colts duo and others to keep tabs on for fantasy football](https://www.espn.com/fantasy/football/story/_/id/50319084/nfl-trade-deadline-2026-fantasy-football-potential-impact)
 - **Devin Singletary** — [Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8)
 - **Devin Singletary** — [Giants place RB Tyrone Tracy Jr. on IR with hamstring injury](https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury)
-- **Tony Pollard** — [Fantasy football matchup rankings: Upgrade Irving, downgrade Williams](https://www.espn.com/fantasy/football/story/_/id/50289452/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
