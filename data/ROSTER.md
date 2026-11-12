@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-12 16:34 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-12 22:33 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -10,7 +10,7 @@ _Auto-generated 2026-11-12 16:34 UTC · Sleeper league `1353605511664115712` · 
 | QB | Malik Willis | MIA | #2 | IR | 27 | 4 |
 | RB | James Cook III | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 28 | 4 |
-| RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Tony Pollard | TEN | #1 | Questionable | 29 | 7 |
 | RB | Aaron Jones Sr. | MIN | #2 | Active | 31 | 9 |
 | RB | Devin Singletary | NYG | #2 | Active | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
@@ -25,7 +25,7 @@ _Auto-generated 2026-11-12 16:34 UTC · Sleeper league `1353605511664115712` · 
 | WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Mike Evans | SF | #4 | Questionable | 33 | 12 |
+| WR | Mike Evans | SF | #5 | Questionable | 33 | 12 |
 | WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Tyler Higbee | LAR | #1 | Active | 33 | 10 |
