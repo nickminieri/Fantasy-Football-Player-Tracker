@@ -1,31 +1,31 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-11 17:41 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-12 00:03 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
 | QB | Josh Allen | BUF | #1 | Active | 30 | 8 |
-| QB | Malik Willis | MIA | #1 | IR | 27 | 4 |
 | QB | Michael Penix Jr. | ATL | #1 | Active | 26 | 2 |
-| QB | Patrick Mahomes | KC | #1 | Questionable | 31 | 9 |
-| RB | Aaron Jones Sr. | MIN | #1 | Active | 31 | 9 |
-| RB | Devin Singletary | NYG | #1 | Active | 29 | 7 |
+| QB | Patrick Mahomes | KC | #1 | Active | 31 | 9 |
+| QB | Malik Willis | MIA | #2 | IR | 27 | 4 |
 | RB | James Cook III | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 28 | 4 |
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
+| RB | Aaron Jones Sr. | MIN | #2 | Active | 31 | 9 |
+| RB | Devin Singletary | NYG | #2 | Active | 29 | 7 |
+| RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
 | RB | Kaleb Johnson | GB | #2 | Active | 23 | 1 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 27 | 2 |
 | RB | Tank Bigsby | PHI | #3 | IR | 24 | 3 |
-| RB | Jaylen Wright | MIA | #6 | Questionable | 23 | 2 |
 | RB | Tyrone Tracy Jr. | NYG | #6 | IR | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
+| WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Garrett Wilson | NYJ | #6 | Questionable | 26 | 4 |
-| WR | Mike Evans | SF | #6 | Questionable | 33 | 12 |
+| WR | Mike Evans | SF | #4 | Questionable | 33 | 12 |
 | WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Tyler Higbee | LAR | #1 | Active | 33 | 10 |
