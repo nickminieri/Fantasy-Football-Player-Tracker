@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-12 22:33 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-13 03:08 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -28,7 +28,7 @@ _Auto-generated 2026-11-12 22:33 UTC · Sleeper league `1353605511664115712` · 
 | WR | Mike Evans | SF | #5 | Questionable | 33 | 12 |
 | WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
-| TE | Tyler Higbee | LAR | #1 | Active | 33 | 10 |
+| TE | Tyler Higbee | LAR | #1 | Questionable | 33 | 10 |
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
