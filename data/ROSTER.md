@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-13 03:08 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-13 11:22 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-13 03:08 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Commanders keep NFC East hopes alive with win over Giants](https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf)
 - **Aaron Jones Sr.** — [Fantasy football: Which players can you trust from these backfields-by-committee?](https://www.espn.com/fantasy/football/story/_/id/50454993/fantasy-football-start-sit-running-backs-rest-season)
 - **Patrick Mahomes** — [Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day](https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement)
 - **Patrick Mahomes** — [From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF](https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-13 03:08 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Josh Allen's halftime words fuel Bills' 2nd-half surge in win over Ravens](https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens)
 - **Josh Allen** — [Will the Bills' defense stop them from winning a Super Bowl?](https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau)
 - **Patrick Mahomes** — [Answering 10 questions about Chiefs-Broncos showdown for first place in AFC West](https://www.espn.com/nfl/story/_/id/50319759/kansas-city-chiefs-denver-broncos-afc-west-division-lead)
-- **Tony Pollard** — [NFL trade deadline: A Colts duo and others to keep tabs on for fantasy football](https://www.espn.com/fantasy/football/story/_/id/50319084/nfl-trade-deadline-2026-fantasy-football-potential-impact)
