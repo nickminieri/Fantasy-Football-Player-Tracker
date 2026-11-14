@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-14 00:09 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-14 06:51 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -25,7 +25,7 @@ _Auto-generated 2026-11-14 00:09 UTC · Sleeper league `1353605511664115712` · 
 | WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Mike Evans | SF | #5 | Out | 33 | 12 |
+| WR | Mike Evans | SF | #7 | Out | 33 | 12 |
 | WR | Jaylin Noel | HOU | #8 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Tyler Higbee | LAR | #1 | Active | 33 | 10 |
