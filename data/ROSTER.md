@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-13 18:38 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-14 00:09 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -10,7 +10,7 @@ _Auto-generated 2026-11-13 18:38 UTC · Sleeper league `1353605511664115712` · 
 | QB | Malik Willis | MIA | #2 | IR | 27 | 4 |
 | RB | James Cook III | BUF | #1 | Active | 27 | 4 |
 | RB | Jaylen Warren | PIT | #1 | Active | 28 | 4 |
-| RB | Tony Pollard | TEN | #1 | Questionable | 29 | 7 |
+| RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Aaron Jones Sr. | MIN | #2 | Active | 31 | 9 |
 | RB | Devin Singletary | NYG | #2 | Active | 29 | 7 |
 | RB | Jaylen Wright | MIA | #2 | Active | 23 | 2 |
@@ -25,10 +25,10 @@ _Auto-generated 2026-11-13 18:38 UTC · Sleeper league `1353605511664115712` · 
 | WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Mike Evans | SF | #5 | Questionable | 33 | 12 |
-| WR | Jaylin Noel | HOU | #7 | IR | 24 | 1 |
+| WR | Mike Evans | SF | #5 | Out | 33 | 12 |
+| WR | Jaylin Noel | HOU | #8 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
-| TE | Tyler Higbee | LAR | #1 | Questionable | 33 | 10 |
+| TE | Tyler Higbee | LAR | #1 | Active | 33 | 10 |
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-13 18:38 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys](https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys)
 - **Josh Allen** — [Joe Burrow is the MVP favorite, but is there a better betting value?](https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks)
 - **Stefon Diggs** — [Commanders keep NFC East hopes alive with win over Giants](https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf)
 - **Aaron Jones Sr.** — [Fantasy football: Which players can you trust from these backfields-by-committee?](https://www.espn.com/fantasy/football/story/_/id/50454993/fantasy-football-start-sit-running-backs-rest-season)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-13 18:38 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race](https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings)
 - **Tony Pollard** — [Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50350092/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more)
 - **Josh Allen** — [Josh Allen's halftime words fuel Bills' 2nd-half surge in win over Ravens](https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens)
-- **Josh Allen** — [Will the Bills' defense stop them from winning a Super Bowl?](https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau)
