@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-15 09:44 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-15 16:48 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -21,7 +21,7 @@ _Auto-generated 2026-11-15 09:44 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tank Bigsby | PHI | #3 | IR | 24 | 3 |
 | RB | Tyrone Tracy Jr. | NYG | #6 | IR | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
-| WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
+| WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-15 09:44 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow](https://www.espn.com/nfl/story/_/id/50481210/sources-baseball-doctors-consulted-patrick-mahomes-elbow)
 - **Mike Evans** — [49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys](https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys)
 - **Josh Allen** — [Joe Burrow is the MVP favorite, but is there a better betting value?](https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks)
 - **Stefon Diggs** — [Commanders keep NFC East hopes alive with win over Giants](https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-15 09:44 UTC · Sleeper league `1353605511664115712` · 
 - **Devin Singletary** — [Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9)
 - **Patrick Mahomes** — [Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race](https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings)
 - **Tony Pollard** — [Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50350092/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more)
-- **Josh Allen** — [Josh Allen's halftime words fuel Bills' 2nd-half surge in win over Ravens](https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens)
