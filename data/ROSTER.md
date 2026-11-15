@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-15 16:48 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-15 21:28 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -22,7 +22,7 @@ _Auto-generated 2026-11-15 16:48 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tyrone Tracy Jr. | NYG | #6 | IR | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
-| WR | Garrett Wilson | NYJ | #1 | Questionable | 26 | 4 |
+| WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Mike Evans | SF | #7 | Out | 33 | 12 |
