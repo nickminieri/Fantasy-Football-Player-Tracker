@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-15 21:28 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-16 01:20 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,9 @@ _Auto-generated 2026-11-15 21:28 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
+- **Tony Pollard** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
+- **Patrick Mahomes** — [Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs](https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs)
 - **Patrick Mahomes** — [Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow](https://www.espn.com/nfl/story/_/id/50481210/sources-baseball-doctors-consulted-patrick-mahomes-elbow)
 - **Mike Evans** — [49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys](https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys)
 - **Josh Allen** — [Joe Burrow is the MVP favorite, but is there a better betting value?](https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks)
@@ -59,6 +62,3 @@ _Auto-generated 2026-11-15 21:28 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
 - **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Tony Pollard** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
-- **Devin Singletary** — [Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9)
-- **Patrick Mahomes** — [Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race](https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings)
-- **Tony Pollard** — [Week 8 winners and losers: Burrow, Higgins, Chase steal the show; Falcons falter](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50350092/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more)
