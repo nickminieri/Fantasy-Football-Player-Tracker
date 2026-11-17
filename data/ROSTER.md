@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-16 18:45 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-17 02:18 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-16 18:45 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [49ers WR Mike Evans' Achilles tendinitis injury explained](https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery)
 - **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
 - **Tony Pollard** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
 - **Patrick Mahomes** — [Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs](https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-16 18:45 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season](https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season)
 - **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
 - **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
-- **Tony Pollard** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
