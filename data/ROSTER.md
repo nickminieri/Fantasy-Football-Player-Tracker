@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-18 02:07 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-18 10:29 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -23,20 +23,21 @@ _Auto-generated 2026-11-18 02:07 UTC · Sleeper league `1353605511664115712` · 
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
-| WR | Mike Evans | SF | #1 | Out | 33 | 12 |
+| WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Jaylin Noel | HOU | #8 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
-| TE | Tyler Higbee | LAR | #1 | Active | 33 | 10 |
+| TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
 | TE | Eli Stowers | PHI | #2 | Active | 23 | 0 |
 | TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
 | K | Tyler Bass | BUF | #1 | Active | 29 | 6 |
-| DEF | Green Bay Packers | GB | — | Active | — | — |
+| DEF | Denver Broncos | DEN | — | Active | — | — |
 
 ## Recent News
 
+- **Mark Andrews** — [Rest-of-season rankings: Joe Burrow takes QB lead, Chuba Hubbard continues rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Mike Evans** — [49ers WR Mike Evans' Achilles tendinitis injury explained](https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery)
 - **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
 - **Tony Pollard** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-18 02:07 UTC · Sleeper league `1353605511664115712` · 
 - **Devin Singletary** — [Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way](https://www.espn.com/fantasy/football/story/_/id/50392079/fantasy-football-streamers-last-minute-pickups-week-9)
 - **Patrick Mahomes** — [Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season](https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season)
 - **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
-- **Stefon Diggs** — [Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
