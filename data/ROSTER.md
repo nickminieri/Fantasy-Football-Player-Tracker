@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-18 10:29 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-18 18:59 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,11 @@ _Auto-generated 2026-11-18 10:29 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium](https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift)
+- **Stefon Diggs** — [Fantasy football matchup ranks: Upgrade Jonah Coleman, downgrade Brock Purdy](https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
+- **Tony Pollard** — [Fantasy football matchup ranks: Upgrade Jonah Coleman, downgrade Brock Purdy](https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
+- **Tony Pollard** — [Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable](https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11)
+- **Stefon Diggs** — [Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable](https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11)
 - **Mark Andrews** — [Rest-of-season rankings: Joe Burrow takes QB lead, Chuba Hubbard continues rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Mike Evans** — [49ers WR Mike Evans' Achilles tendinitis injury explained](https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery)
 - **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
@@ -57,8 +62,3 @@ _Auto-generated 2026-11-18 10:29 UTC · Sleeper league `1353605511664115712` · 
 - **Devin Singletary** — [Fantasy football free agent pickups: Douglas, Rodgers, Estime lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50431710/fantasy-football-waivers-free-agent-pickups-nfl-week-10)
 - **Devin Singletary** — [Fantasy buzz: Who got the ball in Week 9?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Samaje Perine** — [Fantasy buzz: Who got the ball in Week 9?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Patrick Mahomes** — [Chiefs' Patrick Mahomes brushes off injury scare during rout of Jets](https://www.espn.com/nfl/story/_/id/50427266/chiefs-patrick-mahomes-brushes-injury-scare)
-- **Mike Evans** — [Nick Bosa back, Christian McCaffrey good to go for Niners](https://www.espn.com/nfl/story/_/id/50402463/nick-bosa-back-christian-mccaffrey-good-go-niners)
-- **Devin Singletary** — [Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way](https://www.espn.com/fantasy/football/story/_/id/50392079/fantasy-football-streamers-last-minute-pickups-week-9)
-- **Patrick Mahomes** — [Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season](https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season)
-- **Josh Allen** — [Josh Allen-produced short doc on Buffalo storm gets release date, trailer](https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen)
