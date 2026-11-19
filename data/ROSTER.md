@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-18 18:59 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-19 01:03 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,7 +17,7 @@ _Auto-generated 2026-11-18 18:59 UTC · Sleeper league `1353605511664115712` · 
 | RB | Kaleb Johnson | GB | #2 | Active | 23 | 1 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Active | 25 | 0 |
-| RB | Ray Davis | BUF | #3 | Active | 27 | 2 |
+| RB | Ray Davis | BUF | #3 | Questionable | 27 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
 | RB | Tyrone Tracy Jr. | NYG | #5 | IR | 26 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
