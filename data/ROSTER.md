@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-19 09:07 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-19 18:29 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,10 @@ _Auto-generated 2026-11-19 09:07 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Stefon Diggs** — [Which of these 15 pass catchers should you trust going forward?](https://www.espn.com/fantasy/football/story/_/id/50520521/fantasy-football-trade-value-start-sit-wr-te)
+- **Josh Allen** — [Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
+- **Mark Andrews** — [Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
+- **Josh Allen** — [Whether it's against backup QBs or not, the Bills' defense is rolling](https://www.espn.com/nfl/story/_/id/50531689/bills-defense-backup-qbs-amani-hooker)
 - **Patrick Mahomes** — [Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium](https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift)
 - **Stefon Diggs** — [Fantasy football matchup ranks: Upgrade Jonah Coleman, downgrade Brock Purdy](https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
 - **Tony Pollard** — [Fantasy football matchup ranks: Upgrade Jonah Coleman, downgrade Brock Purdy](https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
@@ -58,7 +62,3 @@ _Auto-generated 2026-11-19 09:07 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Gibbs, Allen, JSN and more Knockout league pickups for Week 10](https://www.espn.com/fantasy/football/story/_/id/50442966/2026-fantasy-football-knockout-leagues-pickups-week-10)
 - **Aaron Jones Sr.** — [Josh Allen leads Bills to win over tough Vikings defense](https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf)
 - **Patrick Mahomes** — [Chiefs QB Patrick Mahomes day-to-day with elbow injury](https://www.espn.com/nfl/story/_/id/50434564/chiefs-qb-patrick-mahomes-day-day-elbow-injury)
-- **Josh Allen** — [How to bet Bills-Vikings: Analysis, best bets and top prop plays](https://www.espn.com/espn/betting/story/_/id/50413261/nfl-week-9-odds-betting-preview-bills-vikings-prop-tips)
-- **Devin Singletary** — [Fantasy football free agent pickups: Douglas, Rodgers, Estime lead top options](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50431710/fantasy-football-waivers-free-agent-pickups-nfl-week-10)
-- **Devin Singletary** — [Fantasy buzz: Who got the ball in Week 9?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
-- **Samaje Perine** — [Fantasy buzz: Who got the ball in Week 9?](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
