@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-20 08:03 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-20 17:06 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,9 @@ _Auto-generated 2026-11-20 08:03 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [NFL offseason free agent and trade acquisitions that have and have not worked](https://www.espn.com/nfl/story/_/id/50525533/2026-offseason-change-scenery-fits-players-new-teams)
+- **Patrick Mahomes** — [What to know to set your lineup: Nix, Ward viable options if your QB is on bye](https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know)
+- **Tony Pollard** — [What to know to set your lineup: Nix, Ward viable options if your QB is on bye](https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know)
 - **Stefon Diggs** — [Which of these 15 pass catchers should you trust going forward?](https://www.espn.com/fantasy/football/story/_/id/50520521/fantasy-football-trade-value-start-sit-wr-te)
 - **Josh Allen** — [Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Mark Andrews** — [Fantasy buzz: Breaking down 11 key fantasy football stats for Week 11](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
@@ -59,6 +62,3 @@ _Auto-generated 2026-11-20 08:03 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day](https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement)
 - **Patrick Mahomes** — [From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF](https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif)
 - **Josh Allen** — [Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite](https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite)
-- **Josh Allen** — [Gibbs, Allen, JSN and more Knockout league pickups for Week 10](https://www.espn.com/fantasy/football/story/_/id/50442966/2026-fantasy-football-knockout-leagues-pickups-week-10)
-- **Aaron Jones Sr.** — [Josh Allen leads Bills to win over tough Vikings defense](https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf)
-- **Patrick Mahomes** — [Chiefs QB Patrick Mahomes day-to-day with elbow injury](https://www.espn.com/nfl/story/_/id/50434564/chiefs-qb-patrick-mahomes-day-day-elbow-injury)
