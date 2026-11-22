@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-22 07:14 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-22 15:32 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -13,7 +13,6 @@ _Auto-generated 2026-11-22 07:14 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tony Pollard | TEN | #1 | Active | 29 | 7 |
 | RB | Aaron Jones Sr. | MIN | #2 | Active | 31 | 9 |
 | RB | Devin Singletary | NYG | #2 | Active | 29 | 7 |
-| RB | Kaleb Johnson | GB | #2 | Active | 23 | 1 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Out | 25 | 0 |
 | RB | Audric Estime | NO | #3 | Active | 23 | 2 |
@@ -26,6 +25,7 @@ _Auto-generated 2026-11-22 07:14 UTC · Sleeper league `1353605511664115712` · 
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
+| WR | Jordan Watkins | SF | #4 | Active | 24 | 1 |
 | WR | Jaylin Noel | HOU | #8 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
