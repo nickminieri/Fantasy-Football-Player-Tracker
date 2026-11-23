@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-22 21:31 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-23 02:13 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -17,12 +17,12 @@ _Auto-generated 2026-11-22 21:31 UTC · Sleeper league `1353605511664115712` · 
 | RB | Seth McGowan | IND | #2 | Out | 25 | 0 |
 | RB | Ray Davis | BUF | #3 | Active | 27 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
-| RB | Tyrone Tracy Jr. | NYG | #5 | IR | 26 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #4 | IR | 27 | 2 |
 | RB | Audric Estime | NO | #6 | Out | 23 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
-| WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
+| WR | Mike Evans | SF | #1 | Active | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
 | WR | Jordan Watkins | SF | #4 | Active | 24 | 1 |
@@ -37,6 +37,9 @@ _Auto-generated 2026-11-22 21:31 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Tony Pollard** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
+- **Josh Allen** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
+- **Patrick Mahomes** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
 - **Mike Evans** — [NFL offseason free agent and trade acquisitions that have and have not worked](https://www.espn.com/nfl/story/_/id/50525533/2026-offseason-change-scenery-fits-players-new-teams)
 - **Patrick Mahomes** — [What to know to set your lineup: Nix, Ward viable options if your QB is on bye](https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know)
 - **Tony Pollard** — [What to know to set your lineup: Nix, Ward viable options if your QB is on bye](https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know)
@@ -59,6 +62,3 @@ _Auto-generated 2026-11-22 21:31 UTC · Sleeper league `1353605511664115712` · 
 - **Josh Allen** — [Joe Burrow is the MVP favorite, but is there a better betting value?](https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks)
 - **Stefon Diggs** — [Commanders keep NFC East hopes alive with win over Giants](https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf)
 - **Aaron Jones Sr.** — [Fantasy football: Which players can you trust from these backfields-by-committee?](https://www.espn.com/fantasy/football/story/_/id/50454993/fantasy-football-start-sit-running-backs-rest-season)
-- **Patrick Mahomes** — [Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day](https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement)
-- **Patrick Mahomes** — [From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF](https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif)
-- **Josh Allen** — [Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite](https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite)
