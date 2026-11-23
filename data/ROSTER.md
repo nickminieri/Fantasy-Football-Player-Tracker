@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-23 11:00 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-23 22:48 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -15,10 +15,10 @@ _Auto-generated 2026-11-23 11:00 UTC · Sleeper league `1353605511664115712` · 
 | RB | Devin Singletary | NYG | #2 | Active | 29 | 7 |
 | RB | Samaje Perine | CIN | #2 | Active | 31 | 9 |
 | RB | Seth McGowan | IND | #2 | Out | 25 | 0 |
-| RB | Audric Estime | NO | #3 | Out | 23 | 2 |
 | RB | Ray Davis | BUF | #3 | Active | 27 | 2 |
 | RB | Tank Bigsby | PHI | #4 | IR | 24 | 3 |
-| RB | Tyrone Tracy Jr. | NYG | #5 | IR | 27 | 2 |
+| RB | Tyrone Tracy Jr. | NYG | #4 | IR | 27 | 2 |
+| RB | Audric Estime | NO | #6 | Out | 23 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
 | WR | Denzel Boston | CLE | #1 | Active | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-23 11:00 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Mike Evans** — [Fantasy buzz: Who got the ball Sunday? Usage trends and role changes](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Tony Pollard** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
 - **Josh Allen** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
 - **Patrick Mahomes** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-23 11:00 UTC · Sleeper league `1353605511664115712` · 
 - **Mike Evans** — [49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys](https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys)
 - **Josh Allen** — [Joe Burrow is the MVP favorite, but is there a better betting value?](https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks)
 - **Stefon Diggs** — [Commanders keep NFC East hopes alive with win over Giants](https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf)
-- **Aaron Jones Sr.** — [Fantasy football: Which players can you trust from these backfields-by-committee?](https://www.espn.com/fantasy/football/story/_/id/50454993/fantasy-football-start-sit-running-backs-rest-season)
