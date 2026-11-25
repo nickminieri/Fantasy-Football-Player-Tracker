@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-24 18:38 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-25 02:55 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,8 @@ _Auto-generated 2026-11-24 18:38 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Rest-of-season rankings: Coleman surges among RBs, Taylor sinks](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
+- **Stefon Diggs** — [Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant](https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant)
 - **Mike Evans** — [Fantasy buzz: Who got the ball Sunday? Usage trends and role changes](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)
 - **Tony Pollard** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
 - **Josh Allen** — [Week 11 winners and losers: Cowboys put up points while Josh Allen does not](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50564270/nfl-week-11-fantasy-football-winners-losers-injuries-rankings-more)
@@ -60,5 +62,3 @@ _Auto-generated 2026-11-24 18:38 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs](https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs)
 - **Patrick Mahomes** — [Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow](https://www.espn.com/nfl/story/_/id/50481210/sources-baseball-doctors-consulted-patrick-mahomes-elbow)
 - **Mike Evans** — [49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys](https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys)
-- **Josh Allen** — [Joe Burrow is the MVP favorite, but is there a better betting value?](https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks)
-- **Stefon Diggs** — [Commanders keep NFC East hopes alive with win over Giants](https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf)
