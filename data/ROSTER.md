@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-25 21:54 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-26 03:56 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -24,8 +24,8 @@ _Auto-generated 2026-11-25 21:54 UTC · Sleeper league `1353605511664115712` · 
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Questionable | 32 | 11 |
-| WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Jordan Watkins | SF | #4 | Active | 24 | 1 |
+| WR | Zay Flowers | BAL | #1 | Questionable | 26 | 3 |
+| WR | Jordan Watkins | SF | #4 | Questionable | 24 | 1 |
 | WR | Jaylin Noel | HOU | #8 | IR | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
@@ -37,6 +37,7 @@ _Auto-generated 2026-11-25 21:54 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills](https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props)
 - **Stefon Diggs** — [Commanders and WR Brandon Aiyuk: What to expect, his fit and fantasy impact](https://www.espn.com/nfl/story/_/id/50587341/brandon-aiyuk-commanders-questions)
 - **Josh Allen** — [Rest-of-season rankings: Coleman surges among RBs, Taylor sinks](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Stefon Diggs** — [Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant](https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant)
@@ -61,4 +62,3 @@ _Auto-generated 2026-11-25 21:54 UTC · Sleeper league `1353605511664115712` · 
 - **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
 - **Tony Pollard** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
 - **Patrick Mahomes** — [Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs](https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs)
-- **Patrick Mahomes** — [Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow](https://www.espn.com/nfl/story/_/id/50481210/sources-baseball-doctors-consulted-patrick-mahomes-elbow)
