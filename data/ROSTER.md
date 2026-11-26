@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-26 03:56 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-26 13:36 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,8 @@ _Auto-generated 2026-11-26 03:56 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Patrick Mahomes** — [Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC](https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes)
+- **Josh Allen** — [Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC](https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes)
 - **Josh Allen** — [Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills](https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props)
 - **Stefon Diggs** — [Commanders and WR Brandon Aiyuk: What to expect, his fit and fantasy impact](https://www.espn.com/nfl/story/_/id/50587341/brandon-aiyuk-commanders-questions)
 - **Josh Allen** — [Rest-of-season rankings: Coleman surges among RBs, Taylor sinks](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
@@ -60,5 +62,3 @@ _Auto-generated 2026-11-26 03:56 UTC · Sleeper league `1353605511664115712` · 
 - **Mark Andrews** — [Rest-of-season rankings: Joe Burrow takes QB lead, Chuba Hubbard continues rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
 - **Mike Evans** — [49ers WR Mike Evans' Achilles tendinitis injury explained](https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery)
 - **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
-- **Tony Pollard** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
-- **Patrick Mahomes** — [Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs](https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs)
