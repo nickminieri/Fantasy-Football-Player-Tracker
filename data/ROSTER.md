@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-27 04:46 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-27 14:41 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -37,6 +37,9 @@ _Auto-generated 2026-11-27 04:46 UTC · Sleeper league `1353605511664115712` · 
 
 ## Recent News
 
+- **Josh Allen** — [Bills edge Chiefs with last-second FG in low-scoring battle](https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving)
+- **Patrick Mahomes** — [Bills edge Chiefs with last-second FG in low-scoring battle](https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving)
+- **Josh Allen** — [Bills QB Josh Allen struggles vs. Chiefs in 'grossest' conditions](https://www.espn.com/nfl/story/_/id/50609813/bills-qb-josh-allen-struggles-vs-chiefs-grossest-conditions)
 - **Patrick Mahomes** — [Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC](https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes)
 - **Josh Allen** — [Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC](https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes)
 - **Josh Allen** — [Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills](https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props)
@@ -59,6 +62,3 @@ _Auto-generated 2026-11-27 04:46 UTC · Sleeper league `1353605511664115712` · 
 - **Tony Pollard** — [Fantasy football matchup ranks: Upgrade Jonah Coleman, downgrade Brock Purdy](https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te)
 - **Tony Pollard** — [Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable](https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11)
 - **Stefon Diggs** — [Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable](https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11)
-- **Mark Andrews** — [Rest-of-season rankings: Joe Burrow takes QB lead, Chuba Hubbard continues rise](https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings)
-- **Mike Evans** — [49ers WR Mike Evans' Achilles tendinitis injury explained](https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery)
-- **Patrick Mahomes** — [Week 10 winners and losers: Mahomes has biggest game in years; Taylor struggles](https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more)
