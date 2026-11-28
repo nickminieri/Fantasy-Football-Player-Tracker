@@ -1,6 +1,6 @@
 # My Dynasty Roster
 
-_Auto-generated 2026-11-27 23:12 UTC · Sleeper league `1353605511664115712` · 30 players_
+_Auto-generated 2026-11-28 04:51 UTC · Sleeper league `1353605511664115712` · 30 players_
 
 | Pos | Player | Team | Depth | Status | Age | Exp |
 |-----|--------|------|-------|--------|-----|-----|
@@ -20,17 +20,17 @@ _Auto-generated 2026-11-27 23:12 UTC · Sleeper league `1353605511664115712` · 
 | RB | Tank Bigsby | PHI | #5 | IR | 24 | 3 |
 | RB | Tyrone Tracy Jr. | NYG | #5 | IR | 27 | 2 |
 | WR | Chris Olave | NO | #1 | Active | 26 | 4 |
-| WR | Denzel Boston | CLE | #1 | Questionable | 22 | 0 |
 | WR | Garrett Wilson | NYJ | #1 | Active | 26 | 4 |
 | WR | Mike Evans | SF | #1 | Questionable | 33 | 12 |
 | WR | Stefon Diggs | WAS | #1 | Active | 32 | 11 |
 | WR | Zay Flowers | BAL | #1 | Active | 26 | 3 |
-| WR | Jordan Watkins | SF | #4 | Out | 24 | 1 |
+| WR | Denzel Boston | CLE | #2 | Questionable | 22 | 0 |
 | WR | Jaylin Noel | HOU | #8 | IR | 24 | 1 |
+| WR | Jordan Watkins | SF | #10 | Out | 24 | 1 |
 | TE | Kyle Pitts Sr. | ATL | #1 | Active | 26 | 5 |
 | TE | Mark Andrews | BAL | #1 | Active | 31 | 8 |
+| TE | Oscar Delp | NO | #2 | Active | 23 | 0 |
 | TE | Eli Stowers | PHI | #3 | Active | 23 | 0 |
-| TE | Oscar Delp | NO | #3 | Active | 23 | 0 |
 | K | Cameron Dicker | LAC | #1 | Active | 26 | 4 |
 | K | Tyler Bass | BUF | #1 | Active | 29 | 6 |
 | DEF | Denver Broncos | DEN | — | Active | — | — |
